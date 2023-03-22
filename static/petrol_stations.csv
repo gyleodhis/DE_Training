@@ -1,0 +1,5387 @@
+userId,oil_gas_company,rating
+196,Shell,3
+63,Shell,3
+226,Shell,5
+154,Shell,3
+306,Shell,5
+296,Shell,4
+34,Shell,5
+271,Shell,4
+201,Shell,4
+209,Shell,4
+35,Shell,2
+354,Shell,5
+199,Shell,5
+113,Shell,2
+1,Shell,5
+173,Shell,5
+360,Shell,4
+234,Shell,4
+14,Shell,4
+309,Shell,4
+331,Shell,4
+21,Shell,3
+111,Shell,4
+439,Shell,5
+355,Shell,4
+204,Shell,5
+145,Shell,5
+30,Shell,5
+463,Shell,2
+144,Shell,4
+417,Shell,3
+2,Shell,5
+497,Shell,1
+523,Shell,5
+12,Shell,5
+202,Shell,3
+131,Shell,5
+451,Shell,1
+532,Shell,4
+539,Shell,5
+537,Shell,3
+416,Shell,4
+566,Shell,5
+597,Shell,4
+181,Shell,1
+639,Shell,4
+123,Shell,5
+520,Shell,5
+617,Shell,3
+86,Shell,4
+624,Shell,4
+9,Shell,4
+651,Shell,5
+492,Shell,5
+207,Shell,4
+460,Shell,4
+697,Shell,5
+129,Shell,4
+40,Shell,4
+740,Shell,4
+239,Shell,5
+794,Shell,5
+461,Shell,3
+771,Shell,4
+733,Shell,4
+568,Shell,4
+673,Shell,4
+249,Shell,5
+6,Shell,4
+205,Shell,4
+592,Shell,5
+440,Shell,5
+641,Shell,5
+765,Shell,5
+139,Shell,3
+628,Shell,5
+473,Shell,3
+695,Shell,5
+206,Shell,3
+863,Shell,4
+90,Shell,4
+594,Shell,4
+866,Shell,3
+803,Shell,5
+240,Shell,5
+753,Shell,4
+735,Shell,5
+869,Shell,2
+655,Shell,4
+18,Shell,5
+898,Shell,4
+937,Shell,3
+767,Shell,4
+533,Shell,4
+680,Shell,4
+485,Shell,5
+574,Shell,5
+758,Shell,3
+486,Shell,4
+13,Shell,2
+724,Shell,1
+270,Shell,5
+428,Shell,4
+861,Shell,5
+871,Shell,3
+408,Shell,4
+195,Shell,4
+279,Shell,3
+743,Shell,4
+707,Shell,4
+894,Shell,4
+675,Shell,4
+305,Shell,5
+845,Shell,4
+500,Shell,3
+720,Shell,4
+721,Shell,3
+186,Total,3
+191,Total,4
+49,Total,4
+54,Total,4
+62,Total,3
+206,Total,5
+197,Total,3
+214,Total,4
+190,Total,5
+303,Total,4
+181,Total,2
+154,Total,4
+31,Total,4
+305,Total,4
+178,Total,4
+102,Total,3
+100,Total,4
+144,Total,3
+13,Total,5
+315,Total,5
+88,Total,3
+282,Total,5
+334,Total,5
+208,Total,1
+112,Total,4
+277,Total,4
+145,Total,4
+392,Total,5
+276,Total,5
+360,Total,4
+126,Total,4
+319,Total,4
+47,Total,5
+146,Total,4
+378,Total,5
+131,Total,5
+171,Total,4
+201,Total,4
+192,Total,5
+345,Total,5
+204,Total,5
+107,Total,4
+222,Total,3
+433,Total,5
+229,Total,5
+339,Total,4
+427,Total,4
+29,Total,4
+420,Total,4
+43,Total,4
+268,Total,5
+241,Total,3
+397,Total,5
+383,Total,4
+346,Total,3
+461,Total,3
+418,Total,2
+405,Total,4
+179,Total,4
+362,Total,5
+10,Total,4
+90,Total,5
+297,Total,4
+425,Total,5
+413,Total,2
+149,Total,4
+430,Total,4
+232,Total,5
+104,Total,5
+285,Total,5
+129,Total,4
+26,Total,5
+514,Total,5
+15,Total,4
+293,Total,4
+489,Total,5
+421,Total,4
+343,Total,4
+498,Total,3
+460,Total,4
+390,Total,5
+173,Total,5
+140,Total,4
+269,Total,3
+322,Total,5
+567,Total,4
+466,Total,5
+446,Total,4
+404,Total,4
+408,Total,5
+299,Total,4
+116,Total,3
+532,Total,5
+507,Total,5
+423,Total,5
+569,Total,4
+352,Total,4
+512,Total,4
+634,Total,5
+3,Total,2
+375,Total,5
+561,Total,4
+450,Total,5
+63,Total,3
+628,Total,5
+570,Total,4
+105,Total,5
+555,Total,3
+548,Total,4
+6,Total,4
+574,Total,4
+509,Total,5
+414,Total,5
+94,Total,4
+139,Total,3
+531,Total,5
+515,Total,3
+367,Total,5
+14,Total,5
+685,Total,3
+111,Total,5
+707,Total,4
+697,Total,5
+666,Total,5
+331,Total,5
+543,Total,4
+384,Total,5
+683,Total,5
+327,Total,3
+721,Total,3
+431,Total,3
+520,Total,3
+762,Total,5
+16,Total,5
+490,Total,4
+464,Total,5
+134,Total,2
+640,Total,5
+619,Total,4
+52,Total,4
+717,Total,5
+74,Total,4
+69,Total,4
+271,Total,5
+364,Total,4
+177,Total,4
+704,Total,4
+401,Total,3
+474,Total,5
+207,Total,4
+655,Total,4
+758,Total,5
+818,Total,5
+284,Total,4
+473,Total,4
+669,Total,4
+720,Total,5
+788,Total,4
+216,Total,5
+747,Total,5
+853,Total,4
+755,Total,4
+151,Total,3
+328,Total,4
+828,Total,4
+445,Total,1
+329,Total,5
+838,Total,4
+664,Total,4
+894,Total,4
+388,Total,5
+733,Total,4
+808,Total,5
+871,Total,5
+889,Total,4
+370,Total,5
+399,Total,4
+389,Total,5
+463,Total,5
+751,Total,4
+448,Total,5
+833,Total,3
+158,Total,4
+592,Total,5
+787,Total,3
+676,Total,5
+713,Total,4
+775,Total,3
+865,Total,5
+696,Total,5
+428,Total,5
+809,Total,5
+870,Total,4
+458,Total,5
+896,Total,2
+866,Total,2
+743,Total,5
+422,Total,3
+913,Total,4
+416,Total,5
+740,Total,5
+210,Total,5
+744,Total,5
+802,Total,4
+451,Total,3
+615,Total,4
+605,Total,4
+535,Total,3
+547,Total,5
+827,Total,4
+782,Total,3
+752,Total,5
+526,Total,5
+363,Total,5
+656,Total,3
+71,Total,3
+845,Total,3
+920,Total,4
+249,Total,4
+657,Total,2
+819,Total,5
+905,Total,5
+480,Total,4
+854,Total,3
+524,Total,5
+934,Total,4
+240,Total,5
+537,Total,4
+801,Total,4
+485,Total,5
+902,Total,3
+624,Total,4
+626,Total,4
+860,Total,4
+556,Total,4
+454,Total,4
+724,Total,3
+851,Total,5
+560,Total,5
+48,Total,4
+654,Total,5
+668,Total,5
+564,Total,3
+115,Total,4
+278,Total,3
+791,Total,4
+688,Total,5
+587,Total,3
+883,Total,5
+863,Total,4
+770,Total,2
+880,Total,5
+806,Total,4
+160,Total,5
+846,Total,5
+926,Total,4
+617,Total,4
+940,Total,4
+695,Total,4
+745,Total,4
+877,Total,2
+784,Total,5
+40,Total,3
+651,Total,5
+841,Total,5
+842,Total,5
+393,Total,4
+39,Total,5
+380,Total,5
+836,Total,5
+781,Total,5
+875,Total,5
+820,Total,5
+616,Total,5
+915,Total,4
+772,Total,5
+2,Total,5
+185,Total,4
+903,Total,4
+332,Total,5
+611,Total,5
+467,Total,4
+544,Total,5
+486,Total,5
+812,Total,3
+551,Total,3
+919,Total,4
+475,Total,3
+931,Total,4
+710,Total,4
+147,Total,4
+673,Total,3
+874,Total,5
+635,Total,4
+344,Total,5
+417,Total,3
+898,Total,4
+22,Oillibya,1
+5,Oillibya,1
+314,Oillibya,3
+13,Oillibya,1
+222,Oillibya,1
+393,Oillibya,3
+405,Oillibya,1
+468,Oillibya,2
+846,Oillibya,2
+642,Oillibya,3
+798,Oillibya,3
+705,Oillibya,4
+648,Oillibya,3
+244,Oillibya,2
+85,Oillibya,2
+201,Oillibya,2
+198,Oillibya,3
+330,Oillibya,5
+194,Oillibya,4
+1,Oillibya,4
+230,Oillibya,4
+236,Oillibya,5
+56,Oillibya,3
+152,Oillibya,4
+256,Oillibya,4
+16,Oillibya,4
+137,Oillibya,1
+145,Oillibya,3
+345,Oillibya,5
+224,Oillibya,4
+151,Oillibya,4
+72,Oillibya,4
+416,Oillibya,5
+11,Oillibya,4
+43,Oillibya,1
+13,Oillibya,3
+59,Oillibya,5
+454,Oillibya,2
+269,Oillibya,2
+468,Oillibya,3
+405,Oillibya,1
+561,Oillibya,3
+504,Oillibya,4
+184,Oillibya,4
+7,Oillibya,2
+301,Oillibya,4
+437,Oillibya,1
+532,Oillibya,5
+417,Oillibya,3
+655,Oillibya,2
+639,Oillibya,2
+92,Oillibya,4
+276,Oillibya,3
+484,Oillibya,4
+472,Oillibya,5
+682,Oillibya,5
+450,Oillibya,4
+393,Oillibya,4
+222,Oillibya,3
+586,Oillibya,4
+788,Oillibya,4
+627,Oillibya,5
+588,Oillibya,4
+95,Oillibya,4
+271,Oillibya,4
+690,Oillibya,3
+457,Oillibya,5
+178,Oillibya,4
+870,Oillibya,2
+593,Oillibya,3
+899,Oillibya,1
+916,Oillibya,2
+311,Oillibya,4
+642,Oillibya,5
+268,Oillibya,3
+790,Oillibya,3
+721,Oillibya,4
+943,Oillibya,1
+94,Oillibya,3
+610,Oillibya,5
+881,Oillibya,5
+293,Oillibya,3
+867,Oillibya,3
+712,Oillibya,3
+328,Oillibya,3
+922,Oillibya,4
+320,Oillibya,5
+896,Oillibya,2
+378,Oillibya,3
+551,Oillibya,5
+632,Oillibya,4
+846,Oillibya,4
+711,Oillibya,4
+878,Oillibya,4
+166,Vivo,1
+271,Vivo,4
+197,Vivo,3
+94,Vivo,4
+293,Vivo,3
+71,Vivo,4
+125,Vivo,1
+99,Vivo,4
+130,Vivo,4
+287,Vivo,5
+145,Vivo,5
+235,Vivo,4
+294,Vivo,3
+156,Vivo,3
+363,Vivo,4
+284,Vivo,4
+179,Vivo,3
+146,Vivo,4
+269,Vivo,2
+49,Vivo,4
+104,Vivo,3
+214,Vivo,3
+288,Vivo,5
+116,Vivo,4
+299,Vivo,3
+334,Vivo,5
+133,Vivo,3
+126,Vivo,3
+392,Vivo,4
+458,Vivo,4
+511,Vivo,4
+416,Vivo,4
+474,Vivo,5
+526,Vivo,3
+546,Vivo,5
+414,Vivo,5
+285,Vivo,4
+241,Vivo,3
+385,Vivo,3
+561,Vivo,5
+425,Vivo,5
+624,Vivo,3
+445,Vivo,5
+142,Vivo,5
+542,Vivo,3
+631,Vivo,4
+221,Vivo,5
+456,Vivo,5
+646,Vivo,2
+353,Vivo,4
+171,Vivo,4
+206,Vivo,5
+665,Vivo,2
+149,Vivo,4
+397,Vivo,4
+201,Vivo,4
+418,Vivo,2
+702,Vivo,1
+276,Vivo,4
+141,Vivo,1
+466,Vivo,3
+532,Vivo,5
+655,Vivo,4
+13,Vivo,4
+657,Vivo,4
+656,Vivo,3
+369,Vivo,4
+319,Vivo,3
+724,Vivo,1
+54,Vivo,4
+783,Vivo,5
+782,Vivo,2
+695,Vivo,5
+537,Vivo,3
+619,Vivo,3
+551,Vivo,4
+595,Vivo,4
+611,Vivo,5
+389,Vivo,4
+548,Vivo,4
+616,Vivo,3
+112,Vivo,5
+871,Vivo,3
+482,Vivo,3
+322,Vivo,3
+640,Vivo,4
+592,Vivo,4
+752,Vivo,4
+894,Vivo,4
+574,Vivo,4
+880,Vivo,5
+758,Vivo,2
+489,Vivo,5
+485,Vivo,4
+863,Vivo,5
+845,Vivo,3
+851,Vivo,5
+883,Vivo,4
+819,Vivo,5
+710,Vivo,4
+818,Vivo,4
+920,Vivo,4
+557,Vivo,2
+834,Vivo,3
+578,Vivo,3
+805,Vivo,4
+874,Vivo,3
+40,Vivo,2
+915,Vivo,2
+833,Vivo,5
+544,Vivo,4
+100,Vivo,3
+913,Vivo,3
+936,Vivo,4
+903,Vivo,3
+682,Vivo,2
+784,Vivo,4
+683,Vivo,4
+768,Vivo,3
+339,Vivo,5
+519,Vivo,4
+462,Vivo,1
+729,Vivo,1
+3,Vivo,5
+808,Vivo,5
+828,Vivo,4
+298,National Oil,4
+77,National Oil,5
+276,National Oil,5
+318,National Oil,4
+14,National Oil,4
+188,National Oil,4
+248,National Oil,2
+60,National Oil,5
+327,National Oil,3
+73,National Oil,5
+269,National Oil,4
+213,National Oil,2
+95,National Oil,4
+334,National Oil,3
+215,National Oil,4
+235,National Oil,5
+325,National Oil,5
+272,National Oil,5
+343,National Oil,5
+76,National Oil,5
+96,National Oil,4
+321,National Oil,4
+293,National Oil,5
+385,National Oil,5
+118,National Oil,5
+382,National Oil,5
+268,National Oil,5
+290,National Oil,3
+44,National Oil,4
+383,National Oil,5
+267,National Oil,5
+189,National Oil,5
+312,National Oil,5
+373,National Oil,3
+391,National Oil,5
+250,National Oil,5
+307,National Oil,5
+421,National Oil,4
+363,National Oil,5
+232,National Oil,5
+380,National Oil,4
+328,National Oil,4
+10,National Oil,4
+125,National Oil,3
+279,National Oil,5
+301,National Oil,4
+41,National Oil,5
+154,National Oil,5
+90,National Oil,5
+313,National Oil,5
+465,National Oil,3
+487,National Oil,4
+474,National Oil,5
+457,National Oil,5
+409,National Oil,5
+239,National Oil,5
+488,National Oil,2
+498,National Oil,4
+25,National Oil,4
+389,National Oil,5
+18,National Oil,4
+406,National Oil,5
+234,National Oil,4
+425,National Oil,4
+160,National Oil,4
+299,National Oil,5
+435,National Oil,3
+339,National Oil,4
+450,National Oil,5
+417,National Oil,4
+454,National Oil,4
+124,National Oil,3
+521,National Oil,3
+338,National Oil,4
+151,National Oil,5
+545,National Oil,3
+92,National Oil,4
+524,National Oil,4
+58,National Oil,4
+527,National Oil,3
+568,National Oil,5
+297,National Oil,4
+553,National Oil,5
+433,National Oil,3
+303,National Oil,5
+640,National Oil,4
+148,National Oil,5
+59,National Oil,5
+194,National Oil,4
+508,National Oil,5
+686,National Oil,5
+653,National Oil,4
+82,National Oil,3
+666,National Oil,5
+398,National Oil,4
+114,National Oil,5
+543,National Oil,5
+237,National Oil,5
+456,National Oil,5
+271,National Oil,3
+536,National Oil,5
+458,National Oil,4
+387,National Oil,5
+655,National Oil,3
+144,National Oil,4
+645,National Oil,5
+781,National Oil,5
+747,National Oil,5
+499,National Oil,4
+62,National Oil,4
+7,National Oil,5
+469,National Oil,5
+748,National Oil,4
+426,National Oil,4
+607,National Oil,4
+567,National Oil,5
+537,National Oil,5
+862,National Oil,5
+776,National Oil,5
+757,National Oil,3
+843,National Oil,3
+6,National Oil,5
+561,National Oil,5
+758,National Oil,5
+788,National Oil,3
+796,National Oil,2
+738,National Oil,4
+868,National Oil,4
+875,National Oil,5
+533,National Oil,3
+847,National Oil,4
+840,National Oil,5
+305,National Oil,5
+900,National Oil,4
+660,National Oil,2
+916,National Oil,4
+886,National Oil,4
+929,National Oil,4
+823,National Oil,5
+716,National Oil,5
+13,National Oil,4
+659,National Oil,2
+896,National Oil,3
+643,National Oil,5
+940,National Oil,3
+737,National Oil,5
+479,National Oil,5
+848,National Oil,5
+804,National Oil,4
+541,National Oil,5
+766,National Oil,5
+162,National Oil,3
+138,National Oil,5
+780,National Oil,3
+379,National Oil,5
+878,National Oil,5
+198,National Oil,5
+899,National Oil,3
+830,National Oil,5
+326,National Oil,5
+867,National Oil,5
+452,National Oil,3
+85,National Oil,5
+94,National Oil,5
+694,National Oil,4
+846,National Oil,5
+91,National Oil,3
+514,National Oil,5
+870,National Oil,4
+670,National Oil,3
+516,National Oil,5
+890,National Oil,5
+933,National Oil,5
+648,National Oil,4
+226,National Oil,3
+397,National Oil,5
+912,National Oil,3
+864,National Oil,4
+727,National Oil,3
+913,National Oil,5
+492,National Oil,5
+603,National Oil,4
+447,National Oil,3
+889,National Oil,4
+881,National Oil,3
+650,National Oil,4
+669,National Oil,4
+932,National Oil,5
+360,National Oil,5
+911,National Oil,5
+934,National Oil,4
+407,National Oil,3
+622,National Oil,3
+833,National Oil,5
+115,Rubis,2
+41,Rubis,3
+94,Rubis,4
+244,Rubis,4
+1,Rubis,4
+275,Rubis,4
+307,Rubis,3
+195,Rubis,4
+236,Rubis,2
+200,Rubis,5
+313,Rubis,4
+83,Rubis,5
+70,Rubis,4
+84,Rubis,5
+280,Rubis,4
+91,Rubis,5
+218,Rubis,3
+308,Rubis,3
+328,Rubis,5
+268,Rubis,3
+276,Rubis,4
+251,Rubis,3
+370,Rubis,5
+77,Rubis,3
+316,Rubis,3
+13,Rubis,4
+201,Rubis,3
+42,Rubis,3
+72,Rubis,4
+340,Rubis,5
+279,Rubis,5
+99,Rubis,3
+234,Rubis,3
+393,Rubis,4
+221,Rubis,3
+95,Rubis,3
+183,Rubis,2
+363,Rubis,3
+326,Rubis,4
+145,Rubis,5
+128,Rubis,5
+374,Rubis,5
+263,Rubis,4
+292,Rubis,4
+312,Rubis,1
+271,Rubis,5
+346,Rubis,4
+135,Rubis,3
+332,Rubis,4
+327,Rubis,2
+207,Rubis,3
+311,Rubis,5
+450,Rubis,5
+246,Rubis,4
+37,Rubis,4
+82,Rubis,4
+339,Rubis,3
+407,Rubis,3
+466,Rubis,3
+399,Rubis,3
+411,Rubis,5
+64,Rubis,4
+297,Rubis,3
+373,Rubis,4
+484,Rubis,5
+301,Rubis,4
+109,Rubis,5
+161,Rubis,2
+474,Rubis,5
+371,Rubis,5
+512,Rubis,4
+230,Rubis,5
+417,Rubis,3
+350,Rubis,2
+487,Rubis,5
+153,Rubis,4
+254,Rubis,3
+178,Rubis,5
+25,Rubis,4
+387,Rubis,4
+542,Rubis,4
+405,Rubis,2
+536,Rubis,5
+92,Rubis,4
+513,Rubis,5
+394,Rubis,4
+493,Rubis,5
+197,Rubis,5
+334,Rubis,3
+480,Rubis,3
+545,Rubis,4
+455,Rubis,4
+553,Rubis,5
+505,Rubis,4
+583,Rubis,4
+429,Rubis,4
+60,Rubis,5
+69,Rubis,4
+457,Rubis,5
+290,Rubis,4
+608,Rubis,3
+559,Rubis,4
+343,Rubis,2
+198,Rubis,3
+600,Rubis,3
+606,Rubis,4
+437,Rubis,3
+295,Rubis,4
+56,Rubis,4
+380,Rubis,3
+676,Rubis,5
+488,Rubis,4
+537,Rubis,3
+625,Rubis,3
+151,Rubis,5
+682,Rubis,3
+14,Rubis,3
+629,Rubis,4
+577,Rubis,5
+705,Rubis,5
+436,Rubis,3
+638,Rubis,5
+293,Rubis,3
+648,Rubis,4
+479,Rubis,4
+554,Rubis,4
+738,Rubis,4
+709,Rubis,4
+495,Rubis,5
+710,Rubis,4
+660,Rubis,2
+592,Rubis,4
+654,Rubis,5
+655,Rubis,3
+778,Rubis,4
+298,Rubis,4
+715,Rubis,5
+757,Rubis,3
+790,Rubis,4
+807,Rubis,5
+318,Rubis,4
+102,Rubis,3
+727,Rubis,4
+117,Rubis,4
+843,Rubis,3
+96,Rubis,5
+747,Rubis,4
+795,Rubis,3
+188,Rubis,5
+868,Rubis,3
+716,Rubis,5
+59,Rubis,4
+425,Rubis,3
+435,Rubis,3
+671,Rubis,3
+913,Rubis,4
+899,Rubis,4
+741,Rubis,5
+416,Rubis,5
+194,Rubis,4
+881,Rubis,5
+541,Rubis,5
+256,Rubis,4
+922,Rubis,5
+804,Rubis,4
+684,Rubis,4
+773,Rubis,2
+711,Rubis,2
+830,Rubis,5
+686,Rubis,4
+535,Rubis,3
+456,Rubis,3
+892,Rubis,4
+222,Rubis,3
+7,Rubis,5
+766,Rubis,3
+452,Rubis,3
+848,Rubis,4
+897,Rubis,3
+586,Rubis,5
+543,Rubis,4
+846,Rubis,5
+870,Rubis,4
+472,Rubis,4
+796,Rubis,5
+916,Rubis,4
+379,Rubis,4
+514,Rubis,4
+890,Rubis,2
+826,Rubis,5
+798,Rubis,5
+447,Rubis,4
+663,Rubis,4
+933,Rubis,4
+378,Rubis,4
+930,Rubis,3
+896,Rubis,4
+746,Rubis,4
+521,Rubis,3
+618,Rubis,4
+806,Rubis,4
+551,Rubis,4
+886,Rubis,4
+942,Rubis,5
+267,Rubis,5
+883,Rubis,3
+653,Rubis,4
+665,Rubis,3
+650,Rubis,4
+889,Rubis,4
+774,Rubis,3
+498,Rubis,2
+815,Rubis,5
+882,Rubis,5
+878,Rubis,3
+786,Rubis,4
+22,Rubis,3
+566,Rubis,4
+862,Rubis,5
+497,Rubis,4
+524,Rubis,4
+864,Rubis,5
+555,Rubis,3
+270,Rubis,4
+588,Rubis,5
+533,Rubis,3
+666,Rubis,3
+253,Lake Oil,5
+38,Lake Oil,5
+286,Lake Oil,5
+210,Lake Oil,4
+298,Lake Oil,4
+193,Lake Oil,3
+330,Lake Oil,5
+83,Lake Oil,4
+347,Lake Oil,3
+178,Lake Oil,3
+378,Lake Oil,3
+405,Lake Oil,1
+280,Lake Oil,3
+279,Lake Oil,5
+380,Lake Oil,4
+7,Lake Oil,4
+435,Lake Oil,2
+311,Lake Oil,4
+497,Lake Oil,3
+455,Lake Oil,3
+6,Lake Oil,1
+506,Lake Oil,4
+450,Lake Oil,4
+393,Lake Oil,4
+374,Lake Oil,5
+290,Lake Oil,3
+541,Lake Oil,4
+495,Lake Oil,5
+620,Lake Oil,4
+301,Lake Oil,4
+85,Lake Oil,4
+130,Lake Oil,5
+452,Lake Oil,5
+254,Lake Oil,3
+128,Lake Oil,4
+59,Lake Oil,2
+295,Lake Oil,4
+95,Lake Oil,3
+712,Lake Oil,4
+504,Lake Oil,3
+417,Lake Oil,4
+682,Lake Oil,3
+313,Lake Oil,3
+807,Lake Oil,4
+566,Lake Oil,2
+472,Lake Oil,3
+471,Lake Oil,5
+642,Lake Oil,4
+840,Lake Oil,4
+194,Lake Oil,3
+798,Lake Oil,4
+815,Lake Oil,5
+786,Lake Oil,4
+263,Lake Oil,4
+749,Lake Oil,4
+698,Lake Oil,3
+454,Lake Oil,3
+297,Lake Oil,3
+49,Lake Oil,3
+795,Lake Oil,3
+913,Lake Oil,2
+739,Lake Oil,1
+630,Lake Oil,1
+577,Lake Oil,4
+234,Lake Oil,2
+897,Lake Oil,5
+901,Lake Oil,4
+881,Lake Oil,3
+94,Lake Oil,5
+734,Lake Oil,4
+892,Lake Oil,4
+399,Lake Oil,3
+835,Lake Oil,3
+887,Lake Oil,5
+882,Lake Oil,3
+373,Lake Oil,4
+222,Lake Oil,2
+200,Lake Oil,4
+911,Lake Oil,5
+766,Lake Oil,3
+864,Lake Oil,3
+167,Lake Oil,5
+716,Lake Oil,5
+727,Lake Oil,2
+843,Lake Oil,2
+305,Oil Uganda,3
+7,Oil Uganda,5
+13,Oil Uganda,1
+271,Oil Uganda,3
+332,Oil Uganda,5
+327,Oil Uganda,4
+246,Oil Uganda,2
+159,Oil Uganda,5
+42,Oil Uganda,2
+328,Oil Uganda,4
+303,Oil Uganda,5
+344,Oil Uganda,4
+215,Oil Uganda,3
+326,Oil Uganda,2
+119,Oil Uganda,5
+345,Oil Uganda,5
+194,Oil Uganda,2
+336,Oil Uganda,2
+378,Oil Uganda,4
+373,Oil Uganda,5
+234,Oil Uganda,3
+151,Oil Uganda,5
+264,Oil Uganda,4
+18,Oil Uganda,3
+405,Oil Uganda,5
+56,Oil Uganda,3
+64,Oil Uganda,2
+379,Oil Uganda,4
+85,Oil Uganda,4
+275,Oil Uganda,3
+437,Oil Uganda,5
+311,Oil Uganda,3
+411,Oil Uganda,4
+276,Oil Uganda,3
+244,Oil Uganda,4
+5,Oil Uganda,1
+200,Oil Uganda,4
+95,Oil Uganda,3
+94,Oil Uganda,4
+339,Oil Uganda,3
+22,Oil Uganda,4
+385,Oil Uganda,1
+174,Oil Uganda,5
+125,Oil Uganda,4
+262,Oil Uganda,4
+330,Oil Uganda,5
+495,Oil Uganda,4
+450,Oil Uganda,4
+389,Oil Uganda,2
+401,Oil Uganda,2
+435,Oil Uganda,4
+484,Oil Uganda,4
+109,Oil Uganda,5
+621,Oil Uganda,1
+454,Oil Uganda,4
+110,Oil Uganda,4
+363,Oil Uganda,2
+256,Oil Uganda,4
+588,Oil Uganda,5
+524,Oil Uganda,3
+406,Oil Uganda,2
+593,Oil Uganda,3
+184,Oil Uganda,4
+361,Oil Uganda,3
+399,Oil Uganda,3
+301,Oil Uganda,4
+503,Oil Uganda,4
+222,Oil Uganda,3
+478,Oil Uganda,5
+230,Oil Uganda,4
+653,Oil Uganda,2
+532,Oil Uganda,4
+417,Oil Uganda,4
+286,Oil Uganda,5
+195,Oil Uganda,5
+766,Oil Uganda,2
+591,Oil Uganda,3
+542,Oil Uganda,3
+642,Oil Uganda,5
+210,Oil Uganda,3
+709,Oil Uganda,1
+804,Oil Uganda,2
+561,Oil Uganda,2
+650,Oil Uganda,2
+295,Oil Uganda,4
+788,Oil Uganda,4
+815,Oil Uganda,3
+269,Oil Uganda,1
+128,Oil Uganda,4
+87,Oil Uganda,4
+711,Oil Uganda,5
+497,Oil Uganda,2
+59,Oil Uganda,5
+686,Oil Uganda,4
+586,Oil Uganda,4
+880,Oil Uganda,2
+416,Oil Uganda,5
+504,Oil Uganda,1
+70,Oil Uganda,4
+92,Oil Uganda,3
+833,Oil Uganda,1
+916,Oil Uganda,3
+748,Oil Uganda,1
+846,Oil Uganda,4
+807,Oil Uganda,5
+551,Oil Uganda,1
+639,Oil Uganda,4
+778,Oil Uganda,1
+897,Oil Uganda,4
+690,Oil Uganda,4
+523,Oil Uganda,5
+682,Oil Uganda,3
+393,Oil Uganda,3
+922,Oil Uganda,4
+889,Oil Uganda,3
+62,Oil Uganda,3
+886,Oil Uganda,3
+632,Oil Uganda,4
+914,Oil Uganda,2
+694,Oil Uganda,4
+796,Oil Uganda,5
+933,Oil Uganda,1
+885,Oil Uganda,2
+254,Oil Uganda,2
+760,Oil Uganda,5
+904,Oil Uganda,4
+798,Oil Uganda,2
+476,Oil Uganda,3
+508,Oil Uganda,3
+622,Oil Uganda,4
+659,Oil Uganda,5
+354,Oil Uganda,3
+293,Oil Uganda,3
+881,Oil Uganda,1
+606,Oil Uganda,3
+805,Oil Uganda,5
+655,Oil Uganda,3
+11,Oil Uganda,2
+453,Oil Uganda,2
+868,Oil Uganda,2
+279,Oil Uganda,1
+774,Oil Uganda,1
+280,Oil Uganda,5
+38,Oil Uganda,5
+741,Oil Uganda,3
+623,Oil Uganda,4
+671,Oil Uganda,4
+23,Oil Uganda,2
+712,Oil Uganda,5
+786,Oil Uganda,2
+830,Oil Uganda,4
+545,Oil Uganda,3
+911,Oil Uganda,2
+533,Oil Uganda,2
+901,Oil Uganda,4
+318,Oil Uganda,4
+152,Oil Uganda,5
+727,Oil Uganda,5
+716,Oil Uganda,4
+890,Oil Uganda,2
+877,Oil Uganda,4
+934,Oil Uganda,4
+89,Oil Uganda,3
+864,Oil Uganda,4
+878,Oil Uganda,2
+848,Oil Uganda,4
+477,Oil Uganda,5
+457,Oil Uganda,4
+790,Oil Uganda,3
+643,Oil Uganda,2
+6,Abuja Oil,3
+18,Abuja Oil,4
+256,Abuja Oil,5
+62,Abuja Oil,2
+184,Abuja Oil,5
+292,Abuja Oil,4
+121,Abuja Oil,5
+280,Abuja Oil,4
+85,Abuja Oil,4
+263,Abuja Oil,4
+334,Abuja Oil,4
+297,Abuja Oil,5
+119,Abuja Oil,4
+354,Abuja Oil,5
+224,Abuja Oil,3
+90,Abuja Oil,5
+106,Abuja Oil,3
+191,Abuja Oil,5
+187,Abuja Oil,4
+325,Abuja Oil,3
+185,Abuja Oil,5
+249,Abuja Oil,4
+295,Abuja Oil,5
+128,Abuja Oil,5
+311,Abuja Oil,5
+383,Abuja Oil,5
+1,Abuja Oil,5
+429,Abuja Oil,5
+299,Abuja Oil,4
+437,Abuja Oil,4
+326,Abuja Oil,2
+244,Abuja Oil,4
+276,Abuja Oil,3
+151,Abuja Oil,5
+339,Abuja Oil,4
+435,Abuja Oil,4
+456,Abuja Oil,2
+43,Abuja Oil,4
+458,Abuja Oil,5
+492,Abuja Oil,3
+343,Abuja Oil,5
+194,Abuja Oil,3
+543,Abuja Oil,4
+243,Abuja Oil,5
+506,Abuja Oil,3
+607,Abuja Oil,4
+440,Abuja Oil,5
+11,Abuja Oil,4
+554,Abuja Oil,4
+553,Abuja Oil,3
+457,Abuja Oil,3
+361,Abuja Oil,4
+235,Abuja Oil,4
+13,Abuja Oil,1
+591,Abuja Oil,5
+627,Abuja Oil,3
+416,Abuja Oil,1
+378,Abuja Oil,4
+208,Abuja Oil,2
+327,Abuja Oil,4
+201,Abuja Oil,4
+450,Abuja Oil,4
+474,Abuja Oil,4
+716,Abuja Oil,5
+393,Abuja Oil,2
+655,Abuja Oil,4
+481,Abuja Oil,5
+344,Abuja Oil,4
+352,Abuja Oil,4
+764,Abuja Oil,3
+212,Abuja Oil,4
+749,Abuja Oil,4
+420,Abuja Oil,5
+622,Abuja Oil,4
+321,Abuja Oil,4
+786,Abuja Oil,4
+452,Abuja Oil,4
+748,Abuja Oil,4
+707,Abuja Oil,4
+156,Abuja Oil,4
+406,Abuja Oil,4
+494,Abuja Oil,3
+80,Abuja Oil,5
+495,Abuja Oil,5
+846,Abuja Oil,5
+42,Abuja Oil,3
+270,Abuja Oil,4
+805,Abuja Oil,4
+854,Abuja Oil,3
+861,Abuja Oil,5
+658,Abuja Oil,4
+561,Abuja Oil,4
+608,Abuja Oil,5
+262,Abuja Oil,3
+882,Abuja Oil,5
+667,Abuja Oil,5
+907,Abuja Oil,5
+305,Abuja Oil,4
+711,Abuja Oil,5
+585,Abuja Oil,5
+89,Abuja Oil,5
+527,Abuja Oil,4
+747,Abuja Oil,5
+855,Abuja Oil,2
+896,Abuja Oil,1
+682,Abuja Oil,2
+883,Abuja Oil,3
+535,Abuja Oil,4
+566,Abuja Oil,4
+894,Abuja Oil,4
+815,Abuja Oil,5
+864,Abuja Oil,4
+659,Abuja Oil,5
+122,Abuja Oil,5
+345,Abuja Oil,4
+796,Abuja Oil,5
+338,Abuja Oil,4
+257,Abuja Oil,4
+629,Abuja Oil,5
+675,Abuja Oil,4
+771,Abuja Oil,5
+94,Abuja Oil,5
+536,Abuja Oil,3
+828,Abuja Oil,3
+167,Abuja Oil,4
+380,Abuja Oil,4
+829,Abuja Oil,4
+661,Abuja Oil,4
+565,Abuja Oil,5
+503,Abuja Oil,5
+639,Abuja Oil,4
+884,Abuja Oil,3
+7,Abuja Oil,4
+449,Abuja Oil,4
+398,Abuja Oil,3
+916,Abuja Oil,4
+909,Abuja Oil,5
+932,Abuja Oil,4
+615,Abuja Oil,5
+918,Abuja Oil,4
+454,Abuja Oil,2
+405,Abuja Oil,1
+234,Abuja Oil,2
+889,Abuja Oil,4
+934,Abuja Oil,3
+59,Abuja Oil,3
+25,Abuja Oil,4
+877,Abuja Oil,4
+537,Abuja Oil,4
+698,Abuja Oil,2
+62,National Oil of Naigeria,2
+277,National Oil of Naigeria,3
+25,National Oil of Naigeria,4
+248,National Oil of Naigeria,3
+323,National Oil of Naigeria,2
+287,National Oil of Naigeria,4
+318,National Oil of Naigeria,5
+26,National Oil of Naigeria,3
+44,National Oil of Naigeria,4
+116,National Oil of Naigeria,3
+305,National Oil of Naigeria,2
+211,National Oil of Naigeria,5
+254,National Oil of Naigeria,3
+94,National Oil of Naigeria,4
+251,National Oil of Naigeria,3
+52,National Oil of Naigeria,3
+354,National Oil of Naigeria,3
+293,National Oil of Naigeria,2
+247,National Oil of Naigeria,4
+23,National Oil of Naigeria,3
+221,National Oil of Naigeria,4
+299,National Oil of Naigeria,2
+303,National Oil of Naigeria,4
+120,National Oil of Naigeria,2
+337,National Oil of Naigeria,3
+54,National Oil of Naigeria,4
+310,National Oil of Naigeria,5
+297,National Oil of Naigeria,3
+342,National Oil of Naigeria,2
+178,National Oil of Naigeria,5
+186,National Oil of Naigeria,4
+168,National Oil of Naigeria,5
+38,National Oil of Naigeria,1
+214,National Oil of Naigeria,3
+402,National Oil of Naigeria,4
+210,National Oil of Naigeria,5
+2,National Oil of Naigeria,4
+192,National Oil of Naigeria,4
+265,National Oil of Naigeria,4
+347,National Oil of Naigeria,4
+233,National Oil of Naigeria,4
+300,National Oil of Naigeria,4
+58,National Oil of Naigeria,5
+89,National Oil of Naigeria,5
+137,National Oil of Naigeria,5
+374,National Oil of Naigeria,3
+183,National Oil of Naigeria,2
+370,National Oil of Naigeria,5
+117,National Oil of Naigeria,5
+55,National Oil of Naigeria,3
+385,National Oil of Naigeria,3
+32,National Oil of Naigeria,4
+182,National Oil of Naigeria,3
+460,National Oil of Naigeria,2
+339,National Oil of Naigeria,4
+296,National Oil of Naigeria,5
+332,National Oil of Naigeria,4
+439,National Oil of Naigeria,4
+196,National Oil of Naigeria,2
+144,National Oil of Naigeria,4
+435,National Oil of Naigeria,4
+71,National Oil of Naigeria,5
+473,National Oil of Naigeria,4
+5,National Oil of Naigeria,5
+413,National Oil of Naigeria,4
+395,National Oil of Naigeria,5
+425,National Oil of Naigeria,3
+474,National Oil of Naigeria,3
+419,National Oil of Naigeria,4
+104,National Oil of Naigeria,4
+490,National Oil of Naigeria,3
+416,National Oil of Naigeria,3
+467,National Oil of Naigeria,4
+486,National Oil of Naigeria,3
+78,National Oil of Naigeria,4
+271,National Oil of Naigeria,4
+393,National Oil of Naigeria,4
+454,National Oil of Naigeria,4
+101,National Oil of Naigeria,4
+222,National Oil of Naigeria,4
+270,National Oil of Naigeria,4
+455,National Oil of Naigeria,4
+145,National Oil of Naigeria,5
+298,National Oil of Naigeria,4
+497,National Oil of Naigeria,4
+482,National Oil of Naigeria,4
+103,National Oil of Naigeria,3
+213,National Oil of Naigeria,4
+203,National Oil of Naigeria,3
+15,National Oil of Naigeria,4
+343,National Oil of Naigeria,3
+275,National Oil of Naigeria,3
+378,National Oil of Naigeria,4
+557,National Oil of Naigeria,2
+216,National Oil of Naigeria,3
+161,National Oil of Naigeria,3
+307,National Oil of Naigeria,5
+479,National Oil of Naigeria,4
+320,National Oil of Naigeria,4
+504,National Oil of Naigeria,5
+468,National Oil of Naigeria,4
+422,National Oil of Naigeria,4
+567,National Oil of Naigeria,3
+601,National Oil of Naigeria,2
+463,National Oil of Naigeria,4
+249,National Oil of Naigeria,3
+514,National Oil of Naigeria,4
+541,National Oil of Naigeria,5
+465,National Oil of Naigeria,4
+314,National Oil of Naigeria,5
+484,National Oil of Naigeria,5
+330,National Oil of Naigeria,5
+501,National Oil of Naigeria,4
+1,National Oil of Naigeria,4
+644,National Oil of Naigeria,5
+223,National Oil of Naigeria,4
+653,National Oil of Naigeria,3
+392,National Oil of Naigeria,5
+658,National Oil of Naigeria,4
+417,National Oil of Naigeria,3
+53,National Oil of Naigeria,4
+654,National Oil of Naigeria,4
+432,National Oil of Naigeria,5
+630,National Oil of Naigeria,3
+621,National Oil of Naigeria,5
+592,National Oil of Naigeria,4
+545,National Oil of Naigeria,5
+45,National Oil of Naigeria,5
+669,National Oil of Naigeria,3
+576,National Oil of Naigeria,4
+564,National Oil of Naigeria,4
+394,National Oil of Naigeria,4
+552,National Oil of Naigeria,3
+268,National Oil of Naigeria,4
+619,National Oil of Naigeria,3
+334,National Oil of Naigeria,4
+141,National Oil of Naigeria,3
+507,National Oil of Naigeria,5
+407,National Oil of Naigeria,4
+457,National Oil of Naigeria,3
+666,National Oil of Naigeria,3
+401,National Oil of Naigeria,2
+30,National Oil of Naigeria,4
+79,National Oil of Naigeria,3
+487,National Oil of Naigeria,4
+480,National Oil of Naigeria,4
+703,National Oil of Naigeria,5
+676,National Oil of Naigeria,5
+779,National Oil of Naigeria,4
+470,National Oil of Naigeria,4
+602,National Oil of Naigeria,4
+559,National Oil of Naigeria,3
+6,National Oil of Naigeria,2
+655,National Oil of Naigeria,3
+647,National Oil of Naigeria,2
+625,National Oil of Naigeria,4
+768,National Oil of Naigeria,4
+726,National Oil of Naigeria,3
+95,National Oil of Naigeria,5
+736,National Oil of Naigeria,3
+500,National Oil of Naigeria,3
+668,National Oil of Naigeria,3
+738,National Oil of Naigeria,3
+290,National Oil of Naigeria,4
+533,National Oil of Naigeria,4
+701,National Oil of Naigeria,4
+798,National Oil of Naigeria,4
+839,National Oil of Naigeria,3
+711,National Oil of Naigeria,3
+852,National Oil of Naigeria,4
+682,National Oil of Naigeria,2
+279,National Oil of Naigeria,5
+276,National Oil of Naigeria,4
+92,National Oil of Naigeria,2
+327,National Oil of Naigeria,2
+113,National Oil of Naigeria,5
+379,National Oil of Naigeria,4
+286,National Oil of Naigeria,3
+582,National Oil of Naigeria,3
+548,National Oil of Naigeria,5
+758,National Oil of Naigeria,5
+751,National Oil of Naigeria,4
+624,National Oil of Naigeria,3
+525,National Oil of Naigeria,4
+749,National Oil of Naigeria,3
+483,National Oil of Naigeria,2
+671,National Oil of Naigeria,5
+665,National Oil of Naigeria,3
+800,National Oil of Naigeria,4
+493,National Oil of Naigeria,5
+727,National Oil of Naigeria,2
+919,National Oil of Naigeria,4
+403,National Oil of Naigeria,2
+499,National Oil of Naigeria,5
+759,National Oil of Naigeria,4
+130,National Oil of Naigeria,4
+894,National Oil of Naigeria,3
+840,National Oil of Naigeria,3
+815,National Oil of Naigeria,3
+445,National Oil of Naigeria,2
+43,National Oil of Naigeria,4
+429,National Oil of Naigeria,4
+464,National Oil of Naigeria,4
+569,National Oil of Naigeria,4
+336,National Oil of Naigeria,4
+854,National Oil of Naigeria,3
+652,National Oil of Naigeria,2
+674,National Oil of Naigeria,4
+825,National Oil of Naigeria,4
+246,National Oil of Naigeria,4
+716,National Oil of Naigeria,5
+935,National Oil of Naigeria,2
+847,National Oil of Naigeria,3
+793,National Oil of Naigeria,4
+447,National Oil of Naigeria,3
+472,National Oil of Naigeria,4
+606,National Oil of Naigeria,5
+360,National Oil of Naigeria,4
+121,National Oil of Naigeria,5
+757,National Oil of Naigeria,4
+795,National Oil of Naigeria,3
+698,National Oil of Naigeria,3
+922,National Oil of Naigeria,4
+697,National Oil of Naigeria,5
+807,National Oil of Naigeria,4
+901,National Oil of Naigeria,4
+238,National Oil of Naigeria,4
+899,National Oil of Naigeria,4
+540,National Oil of Naigeria,4
+637,National Oil of Naigeria,2
+70,National Oil of Naigeria,4
+715,National Oil of Naigeria,4
+910,National Oil of Naigeria,3
+438,National Oil of Naigeria,4
+659,National Oil of Naigeria,2
+294,National Oil of Naigeria,3
+806,National Oil of Naigeria,4
+109,National Oil of Naigeria,5
+689,National Oil of Naigeria,5
+363,National Oil of Naigeria,2
+563,National Oil of Naigeria,5
+730,National Oil of Naigeria,5
+523,National Oil of Naigeria,5
+859,National Oil of Naigeria,2
+796,National Oil of Naigeria,5
+622,National Oil of Naigeria,3
+453,National Oil of Naigeria,3
+934,National Oil of Naigeria,4
+883,National Oil of Naigeria,5
+927,National Oil of Naigeria,5
+63,National Oil of Naigeria,3
+941,National Oil of Naigeria,4
+889,National Oil of Naigeria,4
+829,National Oil of Naigeria,4
+521,National Oil of Naigeria,3
+887,National Oil of Naigeria,5
+782,National Oil of Naigeria,3
+705,National Oil of Naigeria,4
+692,National Oil of Naigeria,4
+649,National Oil of Naigeria,5
+860,National Oil of Naigeria,3
+513,National Oil of Naigeria,4
+862,National Oil of Naigeria,5
+835,National Oil of Naigeria,3
+308,National Oil of Naigeria,4
+306,National Oil of Naigeria,4
+136,National Oil of Naigeria,3
+57,National Oil of Naigeria,5
+660,National Oil of Naigeria,4
+650,National Oil of Naigeria,3
+916,National Oil of Naigeria,3
+867,National Oil of Naigeria,4
+902,National Oil of Naigeria,3
+939,National Oil of Naigeria,5
+880,National Oil of Naigeria,5
+936,National Oil of Naigeria,3
+838,National Oil of Naigeria,5
+923,National Oil of Naigeria,5
+66,National Oil of Naigeria,3
+804,National Oil of Naigeria,5
+560,National Oil of Naigeria,3
+864,National Oil of Naigeria,4
+459,National Oil of Naigeria,5
+718,National Oil of Naigeria,4
+797,National Oil of Naigeria,5
+586,National Oil of Naigeria,3
+921,National Oil of Naigeria,3
+896,National Oil of Naigeria,4
+176,National Oil of Naigeria,1
+881,National Oil of Naigeria,5
+550,National Oil of Naigeria,4
+794,National Oil of Naigeria,4
+714,National Oil of Naigeria,3
+930,National Oil of Naigeria,4
+642,National Oil of Naigeria,5
+680,National Oil of Naigeria,4
+389,National Oil of Naigeria,3
+770,National Oil of Naigeria,4
+119,National Oil of Naigeria,4
+844,National Oil of Naigeria,4
+938,National Oil of Naigeria,5
+580,National Oil of Naigeria,5
+931,National Oil of Naigeria,4
+286,National Oil of Kenya,5
+130,National Oil of Kenya,3
+195,National Oil of Kenya,4
+251,National Oil of Kenya,5
+174,National Oil of Kenya,3
+269,National Oil of Kenya,3
+318,National Oil of Kenya,2
+250,National Oil of Kenya,4
+303,National Oil of Kenya,3
+292,National Oil of Kenya,3
+270,National Oil of Kenya,4
+198,National Oil of Kenya,2
+223,National Oil of Kenya,4
+38,National Oil of Kenya,5
+109,National Oil of Kenya,4
+152,National Oil of Kenya,2
+392,National Oil of Kenya,3
+345,National Oil of Kenya,3
+92,National Oil of Kenya,3
+387,National Oil of Kenya,3
+297,National Oil of Kenya,3
+117,National Oil of Kenya,3
+417,National Oil of Kenya,4
+474,National Oil of Kenya,3
+342,National Oil of Kenya,1
+374,National Oil of Kenya,1
+429,National Oil of Kenya,3
+486,National Oil of Kenya,3
+334,National Oil of Kenya,2
+94,National Oil of Kenya,4
+26,National Oil of Kenya,3
+184,National Oil of Kenya,2
+500,National Oil of Kenya,2
+219,National Oil of Kenya,3
+506,National Oil of Kenya,3
+393,National Oil of Kenya,3
+463,National Oil of Kenya,2
+314,National Oil of Kenya,3
+514,National Oil of Kenya,2
+416,National Oil of Kenya,3
+344,National Oil of Kenya,4
+468,National Oil of Kenya,3
+262,National Oil of Kenya,5
+653,National Oil of Kenya,2
+552,National Oil of Kenya,4
+141,National Oil of Kenya,3
+548,National Oil of Kenya,4
+560,National Oil of Kenya,4
+569,National Oil of Kenya,3
+521,National Oil of Kenya,3
+540,National Oil of Kenya,4
+525,National Oil of Kenya,3
+592,National Oil of Kenya,4
+711,National Oil of Kenya,4
+363,National Oil of Kenya,1
+599,National Oil of Kenya,4
+642,National Oil of Kenya,5
+543,National Oil of Kenya,4
+580,National Oil of Kenya,3
+726,National Oil of Kenya,1
+159,National Oil of Kenya,4
+768,National Oil of Kenya,2
+854,National Oil of Kenya,3
+523,National Oil of Kenya,5
+761,National Oil of Kenya,1
+294,National Oil of Kenya,2
+385,National Oil of Kenya,2
+859,National Oil of Kenya,4
+582,National Oil of Kenya,4
+472,National Oil of Kenya,4
+445,National Oil of Kenya,1
+647,National Oil of Kenya,3
+655,National Oil of Kenya,3
+435,National Oil of Kenya,2
+917,National Oil of Kenya,2
+590,National Oil of Kenya,3
+501,National Oil of Kenya,4
+936,National Oil of Kenya,3
+889,National Oil of Kenya,2
+938,National Oil of Kenya,4
+805,National Oil of Kenya,4
+714,National Oil of Kenya,3
+593,National Oil of Kenya,1
+793,National Oil of Kenya,3
+927,National Oil of Kenya,3
+654,National Oil of Kenya,3
+895,National Oil of Kenya,3
+919,National Oil of Kenya,4
+782,National Oil of Kenya,2
+851,National Oil of Kenya,3
+880,National Oil of Kenya,4
+459,National Oil of Kenya,1
+757,National Oil of Kenya,3
+886,National Oil of Kenya,5
+869,National Oil of Kenya,4
+916,National Oil of Kenya,3
+790,National Oil of Kenya,2
+870,National Oil of Kenya,2
+200,Nairobi Oil,5
+119,Nairobi Oil,5
+21,Nairobi Oil,2
+97,Nairobi Oil,5
+25,Nairobi Oil,4
+56,Nairobi Oil,5
+296,Nairobi Oil,5
+1,Nairobi Oil,4
+15,Nairobi Oil,3
+101,Nairobi Oil,3
+60,Nairobi Oil,4
+63,Nairobi Oil,3
+294,Nairobi Oil,4
+290,Nairobi Oil,4
+93,Nairobi Oil,4
+245,Nairobi Oil,4
+334,Nairobi Oil,4
+5,Nairobi Oil,4
+102,Nairobi Oil,3
+162,Nairobi Oil,4
+167,Nairobi Oil,4
+37,Nairobi Oil,3
+141,Nairobi Oil,4
+58,Nairobi Oil,4
+64,Nairobi Oil,4
+130,Nairobi Oil,4
+361,Nairobi Oil,2
+357,Nairobi Oil,5
+42,Nairobi Oil,4
+71,Nairobi Oil,3
+251,Nairobi Oil,4
+103,Nairobi Oil,3
+254,Nairobi Oil,4
+137,Nairobi Oil,5
+270,Nairobi Oil,5
+236,Nairobi Oil,4
+94,Nairobi Oil,3
+28,Nairobi Oil,5
+190,Nairobi Oil,4
+215,Nairobi Oil,4
+22,Nairobi Oil,4
+275,Nairobi Oil,4
+299,Nairobi Oil,2
+378,Nairobi Oil,3
+292,Nairobi Oil,3
+84,Nairobi Oil,4
+347,Nairobi Oil,4
+413,Nairobi Oil,4
+360,Nairobi Oil,2
+194,Nairobi Oil,1
+249,Nairobi Oil,4
+23,Nairobi Oil,4
+158,Nairobi Oil,3
+168,Nairobi Oil,5
+57,Nairobi Oil,5
+183,Nairobi Oil,4
+393,Nairobi Oil,4
+432,Nairobi Oil,4
+82,Nairobi Oil,3
+117,Nairobi Oil,5
+139,Nairobi Oil,3
+344,Nairobi Oil,4
+182,Nairobi Oil,3
+407,Nairobi Oil,4
+301,Nairobi Oil,4
+310,Nairobi Oil,3
+222,Nairobi Oil,4
+81,Nairobi Oil,2
+267,Nairobi Oil,4
+328,Nairobi Oil,3
+297,Nairobi Oil,4
+391,Nairobi Oil,2
+337,Nairobi Oil,5
+108,Nairobi Oil,2
+303,Nairobi Oil,3
+402,Nairobi Oil,4
+425,Nairobi Oil,5
+32,Nairobi Oil,3
+264,Nairobi Oil,5
+363,Nairobi Oil,5
+493,Nairobi Oil,3
+213,Nairobi Oil,3
+406,Nairobi Oil,3
+268,Nairobi Oil,4
+127,Nairobi Oil,5
+165,Nairobi Oil,5
+85,Nairobi Oil,2
+422,Nairobi Oil,4
+386,Nairobi Oil,4
+128,Nairobi Oil,3
+387,Nairobi Oil,4
+11,Nairobi Oil,3
+198,Nairobi Oil,3
+495,Nairobi Oil,5
+276,Nairobi Oil,4
+459,Nairobi Oil,4
+327,Nairobi Oil,2
+456,Nairobi Oil,2
+394,Nairobi Oil,4
+455,Nairobi Oil,3
+289,Nairobi Oil,2
+545,Nairobi Oil,4
+263,Nairobi Oil,4
+506,Nairobi Oil,4
+417,Nairobi Oil,3
+203,Nairobi Oil,4
+62,Nairobi Oil,5
+221,Nairobi Oil,3
+13,Nairobi Oil,3
+496,Nairobi Oil,3
+569,Nairobi Oil,3
+561,Nairobi Oil,3
+92,Nairobi Oil,4
+365,Nairobi Oil,4
+548,Nairobi Oil,5
+533,Nairobi Oil,5
+247,Nairobi Oil,3
+518,Nairobi Oil,5
+176,Nairobi Oil,5
+488,Nairobi Oil,4
+594,Nairobi Oil,4
+26,Nairobi Oil,3
+293,Nairobi Oil,3
+541,Nairobi Oil,4
+430,Nairobi Oil,4
+450,Nairobi Oil,3
+582,Nairobi Oil,4
+148,Nairobi Oil,4
+636,Nairobi Oil,5
+253,Nairobi Oil,4
+14,Nairobi Oil,4
+468,Nairobi Oil,4
+201,Nairobi Oil,3
+396,Nairobi Oil,5
+551,Nairobi Oil,5
+630,Nairobi Oil,4
+552,Nairobi Oil,4
+244,Nairobi Oil,2
+217,Nairobi Oil,5
+138,Nairobi Oil,4
+517,Nairobi Oil,4
+497,Nairobi Oil,3
+498,Nairobi Oil,3
+374,Nairobi Oil,4
+654,Nairobi Oil,5
+250,Nairobi Oil,4
+494,Nairobi Oil,5
+546,Nairobi Oil,4
+255,Nairobi Oil,3
+625,Nairobi Oil,4
+621,Nairobi Oil,4
+647,Nairobi Oil,4
+72,Nairobi Oil,1
+285,Nairobi Oil,4
+44,Nairobi Oil,4
+508,Nairobi Oil,3
+682,Nairobi Oil,4
+718,Nairobi Oil,4
+478,Nairobi Oil,2
+650,Nairobi Oil,4
+554,Nairobi Oil,4
+661,Nairobi Oil,3
+295,Nairobi Oil,4
+164,Nairobi Oil,4
+234,Nairobi Oil,3
+513,Nairobi Oil,5
+507,Nairobi Oil,5
+737,Nairobi Oil,3
+403,Nairobi Oil,5
+607,Nairobi Oil,3
+484,Nairobi Oil,5
+332,Nairobi Oil,4
+717,Nairobi Oil,4
+664,Nairobi Oil,3
+749,Nairobi Oil,3
+323,Nairobi Oil,3
+697,Nairobi Oil,4
+771,Nairobi Oil,2
+70,Nairobi Oil,4
+623,Nairobi Oil,4
+180,Nairobi Oil,5
+698,Nairobi Oil,4
+689,Nairobi Oil,5
+805,Nairobi Oil,4
+435,Nairobi Oil,3
+380,Nairobi Oil,3
+601,Nairobi Oil,4
+745,Nairobi Oil,2
+734,Nairobi Oil,1
+447,Nairobi Oil,3
+606,Nairobi Oil,3
+699,Nairobi Oil,3
+742,Nairobi Oil,2
+580,Nairobi Oil,3
+622,Nairobi Oil,5
+711,Nairobi Oil,3
+648,Nairobi Oil,5
+540,Nairobi Oil,4
+779,Nairobi Oil,4
+43,Nairobi Oil,4
+89,Nairobi Oil,5
+660,Nairobi Oil,2
+677,Nairobi Oil,4
+798,Nairobi Oil,3
+151,Nairobi Oil,5
+743,Nairobi Oil,4
+181,Nairobi Oil,4
+703,Nairobi Oil,4
+109,Nairobi Oil,4
+761,Nairobi Oil,4
+411,Nairobi Oil,3
+653,Nairobi Oil,3
+178,Nairobi Oil,4
+804,Nairobi Oil,5
+823,Nairobi Oil,3
+113,Nairobi Oil,3
+666,Nairobi Oil,3
+748,Nairobi Oil,4
+881,Nairobi Oil,5
+154,Nairobi Oil,2
+578,Nairobi Oil,4
+767,Nairobi Oil,5
+864,Nairobi Oil,4
+634,Nairobi Oil,3
+370,Nairobi Oil,3
+487,Nairobi Oil,4
+746,Nairobi Oil,3
+595,Nairobi Oil,3
+145,Nairobi Oil,5
+796,Nairobi Oil,5
+339,Nairobi Oil,4
+674,Nairobi Oil,3
+788,Nairobi Oil,3
+693,Nairobi Oil,2
+896,Nairobi Oil,4
+307,Nairobi Oil,4
+312,Nairobi Oil,3
+454,Nairobi Oil,3
+671,Nairobi Oil,1
+705,Nairobi Oil,5
+313,Nairobi Oil,3
+927,Nairobi Oil,5
+210,Nairobi Oil,4
+442,Nairobi Oil,3
+79,Nairobi Oil,4
+882,Nairobi Oil,5
+399,Nairobi Oil,3
+354,Nairobi Oil,3
+829,Nairobi Oil,4
+757,Nairobi Oil,4
+880,Nairobi Oil,4
+669,Nairobi Oil,3
+786,Nairobi Oil,4
+700,Nairobi Oil,3
+897,Nairobi Oil,4
+472,Nairobi Oil,5
+638,Nairobi Oil,4
+457,Nairobi Oil,5
+886,Nairobi Oil,4
+790,Nairobi Oil,3
+479,Nairobi Oil,4
+702,Nairobi Oil,5
+311,Nairobi Oil,4
+916,Nairobi Oil,3
+588,Nairobi Oil,3
+256,Nairobi Oil,4
+521,Nairobi Oil,4
+765,Nairobi Oil,2
+603,Nairobi Oil,4
+474,Nairobi Oil,4
+287,Nairobi Oil,5
+759,Nairobi Oil,5
+716,Nairobi Oil,4
+581,Nairobi Oil,3
+763,Nairobi Oil,5
+715,Nairobi Oil,3
+87,Nairobi Oil,4
+8,Nairobi Oil,5
+922,Nairobi Oil,4
+550,Nairobi Oil,4
+537,Nairobi Oil,2
+913,Nairobi Oil,3
+879,Nairobi Oil,4
+676,Nairobi Oil,4
+774,Nairobi Oil,3
+747,Nairobi Oil,2
+592,Nairobi Oil,1
+738,Nairobi Oil,4
+800,Nairobi Oil,4
+939,Nairobi Oil,5
+806,Nairobi Oil,4
+572,Nairobi Oil,2
+104,Nairobi Oil,3
+501,Nairobi Oil,4
+224,Nairobi Oil,4
+483,Nairobi Oil,3
+524,Nairobi Oil,2
+679,Nairobi Oil,4
+584,Nairobi Oil,4
+536,Nairobi Oil,4
+815,Nairobi Oil,4
+807,Nairobi Oil,4
+865,Nairobi Oil,2
+769,Nairobi Oil,4
+770,Nairobi Oil,4
+899,Nairobi Oil,4
+887,Nairobi Oil,3
+727,Nairobi Oil,3
+892,Nairobi Oil,4
+919,Nairobi Oil,3
+670,Nairobi Oil,4
+837,Nairobi Oil,3
+921,Nairobi Oil,5
+470,Nairobi Oil,3
+758,Nairobi Oil,4
+923,Nairobi Oil,4
+343,Nairobi Oil,4
+467,Nairobi Oil,3
+764,Nairobi Oil,4
+678,Nairobi Oil,3
+704,Nairobi Oil,3
+825,Nairobi Oil,5
+941,Nairobi Oil,2
+862,Nairobi Oil,5
+867,Nairobi Oil,4
+937,Nairobi Oil,3
+932,Nairobi Oil,4
+69,Nairobi Oil,3
+938,Nairobi Oil,5
+305,Nairobi Oil,2
+486,Nairobi Oil,3
+75,Nairobi Oil,5
+830,Nairobi Oil,3
+279,Nairobi Oil,1
+844,Nairobi Oil,3
+756,Nairobi Oil,2
+793,Nairobi Oil,3
+514,Nairobi Oil,4
+877,Nairobi Oil,2
+596,Nairobi Oil,3
+901,Nairobi Oil,4
+843,Nairobi Oil,3
+854,Nairobi Oil,4
+795,Nairobi Oil,3
+910,Nairobi Oil,4
+817,Nairobi Oil,4
+708,Nairobi Oil,5
+586,Nairobi Oil,3
+868,Nairobi Oil,3
+655,Nairobi Oil,2
+490,Nairobi Oil,3
+768,Nairobi Oil,4
+77,Nairobi Oil,4
+721,Nairobi Oil,5
+280,Nairobi Oil,3
+883,Nairobi Oil,3
+665,Nairobi Oil,3
+560,Nairobi Oil,4
+895,Nairobi Oil,3
+125,Nairobi Oil,5
+847,Nairobi Oil,5
+17,Nairobi Oil,3
+429,Nairobi Oil,4
+838,Nairobi Oil,4
+933,Nairobi Oil,1
+210,Vpower,3
+87,Vpower,3
+276,Vpower,3
+43,Vpower,3
+49,Vpower,1
+222,Vpower,1
+5,Vpower,4
+13,Vpower,2
+280,Vpower,5
+174,Vpower,4
+11,Vpower,3
+119,Vpower,4
+406,Vpower,3
+268,Vpower,3
+279,Vpower,4
+244,Vpower,2
+405,Vpower,2
+435,Vpower,3
+262,Vpower,4
+1,Vpower,3
+286,Vpower,4
+389,Vpower,3
+588,Vpower,4
+577,Vpower,4
+407,Vpower,1
+393,Vpower,1
+455,Vpower,3
+234,Vpower,2
+184,Vpower,4
+584,Vpower,4
+504,Vpower,4
+478,Vpower,1
+711,Vpower,4
+805,Vpower,3
+318,Vpower,4
+648,Vpower,4
+271,Vpower,1
+715,Vpower,1
+378,Vpower,3
+880,Vpower,2
+747,Vpower,2
+551,Vpower,1
+417,Vpower,3
+561,Vpower,2
+660,Vpower,2
+621,Vpower,3
+180,Vpower,4
+766,Vpower,3
+712,Vpower,5
+92,Vpower,3
+10,Vpower,4
+345,Vpower,3
+897,Vpower,3
+642,Vpower,4
+804,Vpower,3
+593,Vpower,1
+846,Vpower,2
+224,Vpower Mombasa,3
+222,Vpower Mombasa,3
+256,Vpower Mombasa,4
+56,Vpower Mombasa,3
+13,Vpower Mombasa,2
+22,Vpower Mombasa,1
+314,Vpower Mombasa,5
+200,Vpower Mombasa,4
+174,Vpower Mombasa,2
+286,Vpower Mombasa,2
+246,Vpower Mombasa,1
+378,Vpower Mombasa,3
+193,Vpower Mombasa,3
+374,Vpower Mombasa,3
+313,Vpower Mombasa,2
+389,Vpower Mombasa,2
+417,Vpower Mombasa,2
+385,Vpower Mombasa,1
+442,Vpower Mombasa,3
+267,Vpower Mombasa,3
+92,Vpower Mombasa,3
+346,Vpower Mombasa,4
+450,Vpower Mombasa,3
+280,Vpower Mombasa,3
+303,Vpower Mombasa,2
+301,Vpower Mombasa,4
+217,Vpower Mombasa,2
+5,Vpower Mombasa,4
+109,Vpower Mombasa,3
+495,Vpower Mombasa,2
+102,Vpower Mombasa,1
+293,Vpower Mombasa,1
+407,Vpower Mombasa,3
+363,Vpower Mombasa,1
+339,Vpower Mombasa,3
+7,Vpower Mombasa,3
+221,Vpower Mombasa,3
+524,Vpower Mombasa,3
+94,Vpower Mombasa,2
+393,Vpower Mombasa,4
+328,Vpower Mombasa,3
+416,Vpower Mombasa,2
+197,Vpower Mombasa,3
+130,Vpower Mombasa,3
+435,Vpower Mombasa,3
+11,Vpower Mombasa,3
+532,Vpower Mombasa,3
+709,Vpower Mombasa,3
+642,Vpower Mombasa,5
+472,Vpower Mombasa,5
+682,Vpower Mombasa,2
+194,Vpower Mombasa,2
+276,Vpower Mombasa,3
+586,Vpower Mombasa,5
+668,Vpower Mombasa,3
+158,Vpower Mombasa,3
+671,Vpower Mombasa,3
+405,Vpower Mombasa,4
+545,Vpower Mombasa,3
+600,Vpower Mombasa,2
+254,Vpower Mombasa,2
+790,Vpower Mombasa,2
+506,Vpower Mombasa,2
+747,Vpower Mombasa,1
+619,Vpower Mombasa,1
+577,Vpower Mombasa,3
+796,Vpower Mombasa,3
+484,Vpower Mombasa,3
+798,Vpower Mombasa,4
+660,Vpower Mombasa,2
+543,Vpower Mombasa,2
+279,Vpower Mombasa,2
+758,Vpower Mombasa,3
+727,Vpower Mombasa,3
+705,Vpower Mombasa,5
+334,Vpower Mombasa,2
+387,Vpower Mombasa,1
+807,Vpower Mombasa,4
+184,Vpower Mombasa,3
+643,Vpower Mombasa,2
+648,Vpower Mombasa,2
+889,Vpower Mombasa,3
+497,Vpower Mombasa,4
+830,Vpower Mombasa,1
+880,Vpower Mombasa,2
+201,Vpower Mombasa,3
+864,Vpower Mombasa,4
+846,Vpower Mombasa,2
+774,Vpower Mombasa,1
+650,Vpower Mombasa,2
+622,Vpower Mombasa,4
+541,Vpower Mombasa,2
+394,Vpower Mombasa,3
+647,Vpower Mombasa,4
+110,Vpower Mombasa,3
+588,Vpower Mombasa,3
+268,Vpower Mombasa,1
+886,Vpower Mombasa,1
+806,Vpower Mombasa,4
+826,Vpower Mombasa,3
+1,Vpower Mombasa,1
+927,Vpower Mombasa,5
+788,Vpower Mombasa,3
+922,Vpower Mombasa,3
+896,Vpower Mombasa,2
+885,Vpower Mombasa,1
+399,Vpower Mombasa,3
+899,Vpower Mombasa,2
+638,Vpower Mombasa,2
+30,Vpower Mombasa,3
+892,Vpower Mombasa,2
+773,Vpower Mombasa,2
+757,Vpower Mombasa,2
+881,Vpower Mombasa,2
+303,Pwani Oil,3
+125,Pwani Oil,3
+42,Pwani Oil,4
+92,Pwani Oil,3
+314,Pwani Oil,3
+128,Pwani Oil,2
+389,Pwani Oil,3
+407,Pwani Oil,3
+346,Pwani Oil,3
+405,Pwani Oil,1
+144,Pwani Oil,4
+450,Pwani Oil,3
+311,Pwani Oil,3
+13,Pwani Oil,3
+256,Pwani Oil,4
+416,Pwani Oil,3
+262,Pwani Oil,3
+152,Pwani Oil,5
+43,Pwani Oil,3
+234,Pwani Oil,3
+336,Pwani Oil,1
+436,Pwani Oil,2
+712,Pwani Oil,5
+180,Pwani Oil,4
+741,Pwani Oil,3
+618,Pwani Oil,3
+751,Pwani Oil,4
+393,Pwani Oil,3
+102,Pwani Oil,2
+299,Pwani Oil,2
+291,Pwani Oil,4
+655,Pwani Oil,2
+796,Pwani Oil,5
+846,Pwani Oil,4
+798,Pwani Oil,3
+883,Pwani Oil,3
+654,Pwani Oil,4
+943,Pwani Oil,2
+904,Pwani Oil,5
+122,Pro gas,5
+299,Pro gas,2
+59,Pro gas,3
+151,Pro gas,5
+18,Pro gas,4
+195,Pro gas,4
+270,Pro gas,5
+13,Pro gas,3
+361,Pro gas,3
+89,Pro gas,5
+334,Pro gas,4
+269,Pro gas,3
+224,Pro gas,4
+243,Pro gas,4
+405,Pro gas,1
+345,Pro gas,4
+280,Pro gas,4
+363,Pro gas,1
+311,Pro gas,4
+450,Pro gas,5
+458,Pro gas,4
+42,Pro gas,3
+354,Pro gas,4
+201,Pro gas,2
+303,Pro gas,5
+378,Pro gas,4
+128,Pro gas,2
+536,Pro gas,3
+437,Pro gas,2
+62,Pro gas,2
+429,Pro gas,4
+90,Pro gas,5
+503,Pro gas,4
+639,Pro gas,3
+5,Pro gas,3
+256,Pro gas,4
+7,Pro gas,3
+276,Pro gas,3
+655,Pro gas,3
+758,Pro gas,2
+805,Pro gas,3
+500,Pro gas,2
+537,Pro gas,4
+194,Pro gas,2
+566,Pro gas,4
+716,Pro gas,4
+846,Pro gas,3
+914,Pro gas,3
+567,Pro gas,4
+615,Pro gas,3
+301,Pro gas,3
+627,Pro gas,2
+184,Pro gas,4
+343,Pro gas,4
+883,Pro gas,5
+707,Pro gas,4
+659,Pro gas,4
+416,Pro gas,3
+711,Pro gas,4
+601,Pro gas,3
+796,Pro gas,3
+916,Pro gas,4
+23,Pro gas,3
+896,Pro gas,2
+454,Pro gas,2
+194,K gas,2
+157,K gas,4
+223,K gas,4
+87,K gas,4
+42,K gas,5
+99,K gas,1
+210,K gas,5
+168,K gas,4
+141,K gas,5
+271,K gas,3
+290,K gas,4
+327,K gas,2
+131,K gas,3
+216,K gas,3
+151,K gas,5
+189,K gas,4
+144,K gas,3
+161,K gas,2
+234,K gas,3
+378,K gas,3
+119,K gas,4
+81,K gas,3
+310,K gas,3
+15,K gas,4
+314,K gas,3
+296,K gas,4
+344,K gas,2
+342,K gas,2
+298,K gas,3
+396,K gas,4
+213,K gas,5
+44,K gas,4
+59,K gas,1
+432,K gas,3
+280,K gas,5
+376,K gas,3
+277,K gas,4
+399,K gas,3
+11,K gas,3
+456,K gas,3
+94,K gas,4
+106,K gas,3
+279,K gas,3
+193,K gas,3
+178,K gas,4
+274,K gas,4
+84,K gas,4
+463,K gas,3
+497,K gas,3
+403,K gas,3
+159,K gas,3
+459,K gas,4
+398,K gas,3
+536,K gas,4
+329,K gas,3
+269,K gas,1
+393,K gas,4
+533,K gas,4
+10,K gas,4
+361,K gas,3
+152,K gas,5
+551,K gas,2
+406,K gas,3
+520,K gas,3
+541,K gas,4
+357,K gas,4
+83,K gas,4
+95,K gas,4
+429,K gas,3
+506,K gas,4
+554,K gas,3
+6,K gas,4
+145,K gas,3
+276,K gas,3
+655,K gas,3
+552,K gas,3
+534,K gas,3
+479,K gas,4
+500,K gas,3
+92,K gas,4
+663,K gas,3
+299,K gas,3
+82,K gas,3
+227,K gas,4
+450,K gas,4
+320,K gas,4
+474,K gas,3
+26,K gas,3
+634,K gas,3
+639,K gas,1
+483,K gas,4
+680,K gas,3
+2,K gas,3
+340,K gas,4
+128,K gas,4
+726,K gas,4
+345,K gas,3
+20,K gas,4
+798,K gas,5
+599,K gas,5
+308,K gas,3
+717,K gas,4
+718,K gas,3
+236,K gas,1
+637,K gas,5
+407,K gas,3
+181,K gas,4
+434,K gas,5
+837,K gas,4
+823,K gas,4
+708,K gas,4
+805,K gas,2
+416,K gas,4
+877,K gas,4
+684,K gas,2
+682,K gas,4
+484,K gas,4
+13,K gas,3
+537,K gas,2
+764,K gas,3
+715,K gas,3
+907,K gas,5
+756,K gas,3
+665,K gas,3
+790,K gas,3
+183,K gas,5
+878,K gas,3
+821,K gas,5
+927,K gas,1
+661,K gas,4
+374,K gas,4
+445,K gas,2
+286,K gas,2
+854,K gas,3
+921,K gas,4
+762,K gas,4
+741,K gas,4
+43,K gas,5
+540,K gas,4
+590,K gas,3
+449,K gas,2
+852,K gas,3
+447,K gas,1
+932,K gas,5
+771,K gas,4
+860,K gas,3
+838,K gas,4
+727,K gas,5
+487,K gas,4
+734,K gas,4
+595,K gas,3
+872,K gas,3
+256,K gas,5
+654,K gas,4
+716,K gas,5
+922,K gas,3
+885,K gas,5
+892,K gas,4
+888,K gas,4
+389,K gas,4
+891,K gas,5
+514,K gas,4
+733,K gas,3
+569,K gas,4
+719,K gas,3
+936,K gas,3
+881,K gas,3
+904,K gas,5
+825,K gas,4
+935,K gas,5
+747,K gas,4
+896,K gas,2
+768,K gas,3
+930,K gas,4
+555,K gas,4
+184,K gas,4
+343,K gas,3
+605,K gas,3
+477,K gas,5
+623,K gas,4
+493,K gas,5
+939,K gas,5
+593,K gas,3
+751,K gas,4
+943,K gas,3
+796,K gas,5
+501,K gas,3
+304,K gas,4
+690,K gas,3
+887,K gas,1
+291,Taifa gas,4
+222,Taifa gas,4
+328,Taifa gas,3
+293,Taifa gas,3
+374,Taifa gas,5
+42,Taifa gas,3
+311,Taifa gas,3
+497,Taifa gas,3
+405,Taifa gas,1
+276,Taifa gas,1
+378,Taifa gas,3
+586,Taifa gas,4
+256,Taifa gas,5
+796,Taifa gas,4
+92,Taifa gas,3
+554,Taifa gas,3
+332,Taifa gas,4
+690,Taifa gas,4
+727,Taifa gas,2
+870,Taifa gas,2
+186,Taifa gas,5
+896,Taifa gas,2
+577,Taifa gas,4
+916,Taifa gas,3
+655,Taifa gas,2
+399,Taifa gas,3
+653,Taifa gas,2
+788,Taifa gas,3
+119,Amani gas,4
+64,Amani gas,3
+167,Amani gas,1
+38,Amani gas,5
+346,Amani gas,3
+109,Amani gas,3
+224,Amani gas,4
+188,Amani gas,5
+56,Amani gas,4
+347,Amani gas,2
+417,Amani gas,3
+271,Amani gas,3
+373,Amani gas,4
+12,Amani gas,4
+436,Amani gas,4
+5,Amani gas,2
+429,Amani gas,3
+200,Amani gas,5
+495,Amani gas,5
+94,Amani gas,3
+478,Amani gas,2
+593,Amani gas,3
+514,Amani gas,4
+222,Amani gas,4
+521,Amani gas,3
+435,Amani gas,3
+566,Amani gas,4
+618,Amani gas,3
+210,Amani gas,3
+660,Amani gas,2
+484,Amani gas,4
+130,Amani gas,4
+712,Amani gas,5
+454,Amani gas,2
+472,Amani gas,4
+537,Amani gas,2
+719,Amani gas,4
+642,Amani gas,4
+504,Amani gas,5
+128,Amani gas,3
+716,Amani gas,2
+276,Amani gas,3
+378,Amani gas,3
+18,Amani gas,3
+337,Amani gas,5
+487,Amani gas,4
+747,Amani gas,3
+405,Amani gas,5
+280,Amani gas,5
+880,Amani gas,3
+450,Amani gas,4
+763,Amani gas,4
+308,Amani gas,4
+629,Amani gas,4
+881,Amani gas,5
+933,Amani gas,3
+393,Amani gas,4
+843,Amani gas,2
+95,Amani gas,3
+921,Amani gas,4
+815,Amani gas,4
+416,Amani gas,5
+896,Amani gas,3
+59,Amani gas,2
+846,Amani gas,2
+65,Amani gas,5
+311,Amani gas,5
+727,Amani gas,4
+167,Sabrina gas,4
+10,Sabrina gas,4
+298,Sabrina gas,3
+331,Sabrina gas,3
+90,Sabrina gas,5
+234,Sabrina gas,3
+269,Sabrina gas,3
+41,Sabrina gas,4
+151,Sabrina gas,5
+263,Sabrina gas,4
+119,Sabrina gas,4
+43,Sabrina gas,4
+401,Sabrina gas,4
+338,Sabrina gas,3
+399,Sabrina gas,3
+6,Sabrina gas,4
+308,Sabrina gas,4
+344,Sabrina gas,4
+426,Sabrina gas,3
+385,Sabrina gas,2
+340,Sabrina gas,4
+313,Sabrina gas,3
+18,Sabrina gas,3
+145,Sabrina gas,3
+24,Sabrina gas,3
+312,Sabrina gas,5
+262,Sabrina gas,5
+96,Sabrina gas,3
+280,Sabrina gas,5
+514,Sabrina gas,3
+474,Sabrina gas,4
+707,Sabrina gas,3
+747,Sabrina gas,5
+161,Sabrina gas,1
+767,Sabrina gas,4
+704,Sabrina gas,4
+568,Sabrina gas,4
+84,Sabrina gas,5
+776,Sabrina gas,4
+409,Sabrina gas,3
+536,Sabrina gas,4
+305,Sabrina gas,5
+498,Sabrina gas,2
+499,Sabrina gas,3
+292,Sabrina gas,4
+537,Sabrina gas,3
+698,Sabrina gas,4
+189,Sabrina gas,5
+846,Sabrina gas,5
+798,Sabrina gas,4
+712,Sabrina gas,4
+716,Sabrina gas,5
+488,Sabrina gas,4
+389,Sabrina gas,4
+454,Sabrina gas,3
+342,Sabrina gas,5
+731,Sabrina gas,4
+835,Sabrina gas,4
+751,Sabrina gas,3
+796,Sabrina gas,5
+625,Sabrina gas,3
+932,Sabrina gas,5
+279,Sabrina gas,4
+659,Sabrina gas,4
+299,Oil Ghana,4
+291,Oil Ghana,5
+216,Oil Ghana,4
+58,Oil Ghana,4
+137,Oil Ghana,5
+279,Oil Ghana,4
+217,Oil Ghana,4
+215,Oil Ghana,4
+13,Oil Ghana,4
+251,Oil Ghana,5
+16,Oil Ghana,5
+213,Oil Ghana,5
+158,Oil Ghana,4
+103,Oil Ghana,4
+312,Oil Ghana,1
+55,Oil Ghana,5
+328,Oil Ghana,4
+298,Oil Ghana,4
+293,Oil Ghana,4
+119,Oil Ghana,4
+347,Oil Ghana,5
+280,Oil Ghana,2
+327,Oil Ghana,4
+308,Oil Ghana,3
+94,Oil Ghana,3
+326,Oil Ghana,5
+8,Oil Ghana,5
+222,Oil Ghana,5
+263,Oil Ghana,4
+387,Oil Ghana,3
+77,Oil Ghana,3
+363,Oil Ghana,4
+207,Oil Ghana,3
+292,Oil Ghana,5
+5,Oil Ghana,3
+398,Oil Ghana,5
+102,Oil Ghana,3
+194,Oil Ghana,4
+332,Oil Ghana,5
+230,Oil Ghana,3
+290,Oil Ghana,3
+275,Oil Ghana,4
+92,Oil Ghana,4
+20,Oil Ghana,2
+450,Oil Ghana,5
+429,Oil Ghana,4
+10,Oil Ghana,4
+458,Oil Ghana,4
+407,Oil Ghana,3
+454,Oil Ghana,4
+401,Oil Ghana,5
+60,Oil Ghana,4
+343,Oil Ghana,4
+301,Oil Ghana,4
+483,Oil Ghana,2
+374,Oil Ghana,5
+162,Oil Ghana,3
+117,Oil Ghana,4
+508,Oil Ghana,3
+286,Oil Ghana,3
+416,Oil Ghana,5
+144,Oil Ghana,4
+87,Oil Ghana,4
+394,Oil Ghana,5
+373,Oil Ghana,3
+479,Oil Ghana,4
+385,Oil Ghana,3
+267,Oil Ghana,5
+313,Oil Ghana,4
+437,Oil Ghana,2
+276,Oil Ghana,5
+378,Oil Ghana,4
+124,Oil Ghana,4
+457,Oil Ghana,5
+342,Oil Ghana,5
+425,Oil Ghana,4
+64,Oil Ghana,3
+417,Oil Ghana,3
+379,Oil Ghana,5
+323,Oil Ghana,4
+545,Oil Ghana,3
+498,Oil Ghana,1
+588,Oil Ghana,3
+1,Oil Ghana,4
+95,Oil Ghana,5
+521,Oil Ghana,3
+484,Oil Ghana,4
+627,Oil Ghana,2
+296,Oil Ghana,4
+346,Oil Ghana,4
+393,Oil Ghana,3
+638,Oil Ghana,5
+468,Oil Ghana,5
+606,Oil Ghana,4
+178,Oil Ghana,4
+608,Oil Ghana,4
+352,Oil Ghana,5
+622,Oil Ghana,5
+659,Oil Ghana,4
+421,Oil Ghana,5
+586,Oil Ghana,4
+592,Oil Ghana,5
+23,Oil Ghana,3
+700,Oil Ghana,4
+305,Oil Ghana,2
+551,Oil Ghana,5
+538,Oil Ghana,4
+466,Oil Ghana,5
+188,Oil Ghana,3
+573,Oil Ghana,4
+445,Oil Ghana,3
+56,Oil Ghana,5
+339,Oil Ghana,3
+442,Oil Ghana,4
+632,Oil Ghana,4
+62,Oil Ghana,3
+676,Oil Ghana,4
+22,Oil Ghana,5
+716,Oil Ghana,2
+125,Oil Ghana,5
+51,Oil Ghana,5
+749,Oil Ghana,5
+244,Oil Ghana,1
+447,Oil Ghana,5
+96,Oil Ghana,4
+748,Oil Ghana,4
+303,Oil Ghana,5
+671,Oil Ghana,4
+38,Oil Ghana,5
+44,Oil Ghana,4
+654,Oil Ghana,5
+487,Oil Ghana,5
+619,Oil Ghana,5
+711,Oil Ghana,2
+705,Oil Ghana,3
+201,Oil Ghana,4
+698,Oil Ghana,2
+823,Oil Ghana,5
+806,Oil Ghana,5
+757,Oil Ghana,4
+625,Oil Ghana,4
+495,Oil Ghana,4
+562,Oil Ghana,5
+738,Oil Ghana,5
+661,Oil Ghana,5
+660,Oil Ghana,3
+883,Oil Ghana,4
+249,Oil Ghana,4
+746,Oil Ghana,5
+559,Oil Ghana,5
+666,Oil Ghana,3
+399,Oil Ghana,3
+763,Oil Ghana,3
+896,Oil Ghana,4
+536,Oil Ghana,4
+183,Oil Ghana,3
+514,Oil Ghana,3
+847,Oil Ghana,4
+833,Oil Ghana,4
+455,Oil Ghana,3
+435,Oil Ghana,4
+892,Oil Ghana,5
+771,Oil Ghana,1
+840,Oil Ghana,3
+758,Oil Ghana,4
+295,Oil Ghana,4
+693,Oil Ghana,4
+913,Oil Ghana,5
+851,Oil Ghana,5
+864,Oil Ghana,5
+901,Oil Ghana,5
+655,Oil Ghana,3
+488,Oil Ghana,3
+804,Oil Ghana,4
+643,Oil Ghana,4
+844,Oil Ghana,3
+629,Oil Ghana,5
+109,Oil Ghana,4
+751,Oil Ghana,4
+919,Oil Ghana,4
+297,Oil Ghana,3
+893,Oil Ghana,4
+505,Oil Ghana,3
+788,Oil Ghana,4
+880,Oil Ghana,5
+932,Oil Ghana,3
+854,Oil Ghana,3
+778,Oil Ghana,4
+268,Oil Ghana,4
+694,Oil Ghana,4
+43,Oil Ghana,4
+889,Oil Ghana,4
+535,Oil Ghana,3
+790,Oil Ghana,4
+709,Oil Ghana,3
+7,Oil Ghana,5
+796,Oil Ghana,5
+177,Oil Ghana,5
+566,Oil Ghana,3
+734,Oil Ghana,2
+899,Oil Ghana,3
+907,Oil Ghana,5
+843,Oil Ghana,3
+436,Oil Ghana,5
+314,Oil Ghana,3
+831,Oil Ghana,5
+453,Oil Ghana,4
+130,Oil Ghana,5
+234,Oil Ghana,3
+807,Oil Ghana,4
+886,Oil Ghana,4
+618,Oil Ghana,4
+670,Oil Ghana,4
+593,Oil Ghana,4
+497,Oil Ghana,4
+924,Oil Ghana,3
+902,Oil Ghana,5
+682,Oil Ghana,3
+727,Oil Ghana,4
+933,Oil Ghana,4
+916,Oil Ghana,3
+543,Oil Ghana,4
+481,Oil Ghana,4
+653,Oil Ghana,3
+867,Oil Ghana,3
+561,Oil Ghana,3
+406,Oil Ghana,1
+648,Oil Ghana,4
+478,Oil Ghana,5
+795,Oil Ghana,4
+650,Oil Ghana,3
+250,Oil Ghana,4
+815,Oil Ghana,4
+929,Oil Ghana,3
+571,Oil Ghana,2
+908,Oil Ghana,4
+934,Oil Ghana,4
+805,Oil Ghana,3
+715,Oil Ghana,5
+57,Oil Ghana,3
+527,Oil Ghana,4
+360,Oil Ghana,2
+221,Oil Ghana,4
+291,Twister Oil,2
+265,Twister Oil,4
+222,Twister Oil,4
+198,Twister Oil,2
+45,Twister Oil,4
+83,Twister Oil,3
+68,Twister Oil,2
+102,Twister Oil,3
+238,Twister Oil,3
+81,Twister Oil,2
+20,Twister Oil,4
+311,Twister Oil,3
+99,Twister Oil,2
+320,Twister Oil,1
+294,Twister Oil,3
+190,Twister Oil,3
+56,Twister Oil,4
+32,Twister Oil,3
+94,Twister Oil,3
+101,Twister Oil,3
+43,Twister Oil,4
+174,Twister Oil,2
+223,Twister Oil,2
+13,Twister Oil,4
+62,Twister Oil,2
+343,Twister Oil,2
+292,Twister Oil,3
+164,Twister Oil,5
+21,Twister Oil,1
+290,Twister Oil,4
+160,Twister Oil,3
+128,Twister Oil,5
+357,Twister Oil,5
+303,Twister Oil,2
+38,Twister Oil,5
+221,Twister Oil,1
+59,Twister Oil,5
+22,Twister Oil,4
+44,Twister Oil,3
+1,Twister Oil,3
+217,Twister Oil,4
+380,Twister Oil,2
+275,Twister Oil,3
+276,Twister Oil,3
+186,Twister Oil,2
+54,Twister Oil,4
+274,Twister Oil,4
+42,Twister Oil,4
+87,Twister Oil,4
+297,Twister Oil,3
+437,Twister Oil,2
+7,Twister Oil,2
+75,Twister Oil,3
+330,Twister Oil,5
+432,Twister Oil,4
+280,Twister Oil,2
+347,Twister Oil,4
+271,Twister Oil,3
+472,Twister Oil,4
+151,Twister Oil,3
+256,Twister Oil,5
+158,Twister Oil,5
+255,Twister Oil,1
+301,Twister Oil,4
+457,Twister Oil,4
+313,Twister Oil,4
+438,Twister Oil,4
+308,Twister Oil,3
+504,Twister Oil,3
+295,Twister Oil,3
+417,Twister Oil,4
+435,Twister Oil,2
+15,Twister Oil,1
+53,Twister Oil,4
+141,Twister Oil,5
+72,Twister Oil,3
+55,Twister Oil,5
+479,Twister Oil,3
+194,Twister Oil,3
+298,Twister Oil,4
+407,Twister Oil,3
+246,Twister Oil,1
+251,Twister Oil,3
+181,Twister Oil,2
+533,Twister Oil,4
+548,Twister Oil,5
+213,Twister Oil,4
+399,Twister Oil,3
+560,Twister Oil,3
+546,Twister Oil,5
+454,Twister Oil,4
+26,Twister Oil,3
+37,Twister Oil,2
+130,Twister Oil,4
+552,Twister Oil,3
+374,Twister Oil,5
+27,Twister Oil,3
+449,Twister Oil,1
+348,Twister Oil,4
+518,Twister Oil,5
+109,Twister Oil,3
+554,Twister Oil,4
+184,Twister Oil,2
+525,Twister Oil,3
+201,Twister Oil,1
+470,Twister Oil,4
+429,Twister Oil,3
+121,Twister Oil,2
+551,Twister Oil,5
+188,Twister Oil,3
+541,Twister Oil,4
+501,Twister Oil,3
+497,Twister Oil,4
+200,Twister Oil,4
+664,Twister Oil,3
+661,Twister Oil,4
+648,Twister Oil,4
+328,Twister Oil,3
+349,Twister Oil,2
+393,Twister Oil,4
+588,Twister Oil,3
+189,Twister Oil,1
+445,Twister Oil,2
+592,Twister Oil,3
+359,Twister Oil,3
+674,Twister Oil,3
+638,Twister Oil,3
+612,Twister Oil,3
+716,Twister Oil,2
+619,Twister Oil,5
+563,Twister Oil,4
+524,Twister Oil,4
+513,Twister Oil,4
+722,Twister Oil,4
+500,Twister Oil,3
+622,Twister Oil,1
+344,Twister Oil,3
+620,Twister Oil,4
+549,Twister Oil,4
+562,Twister Oil,3
+577,Twister Oil,3
+669,Twister Oil,2
+605,Twister Oil,3
+764,Twister Oil,3
+332,Twister Oil,5
+630,Twister Oil,4
+543,Twister Oil,3
+157,Twister Oil,2
+794,Twister Oil,2
+693,Twister Oil,2
+254,Twister Oil,4
+244,Twister Oil,2
+425,Twister Oil,1
+389,Twister Oil,2
+770,Twister Oil,4
+699,Twister Oil,4
+817,Twister Oil,3
+593,Twister Oil,4
+706,Twister Oil,3
+637,Twister Oil,1
+800,Twister Oil,3
+455,Twister Oil,4
+684,Twister Oil,4
+719,Twister Oil,2
+403,Twister Oil,5
+103,Twister Oil,3
+852,Twister Oil,4
+705,Twister Oil,4
+798,Twister Oil,4
+821,Twister Oil,3
+618,Twister Oil,3
+345,Twister Oil,3
+890,Twister Oil,2
+468,Twister Oil,3
+847,Twister Oil,3
+657,Twister Oil,1
+886,Twister Oil,1
+881,Twister Oil,4
+880,Twister Oil,3
+597,Twister Oil,3
+493,Twister Oil,4
+168,Twister Oil,4
+718,Twister Oil,4
+869,Twister Oil,1
+137,Twister Oil,5
+634,Twister Oil,4
+378,Twister Oil,4
+703,Twister Oil,5
+697,Twister Oil,3
+892,Twister Oil,4
+145,Twister Oil,3
+741,Twister Oil,1
+848,Twister Oil,2
+754,Twister Oil,2
+774,Twister Oil,1
+601,Twister Oil,1
+666,Twister Oil,3
+872,Twister Oil,4
+650,Twister Oil,4
+299,Twister Oil,2
+795,Twister Oil,2
+689,Twister Oil,4
+907,Twister Oil,4
+416,Twister Oil,2
+903,Twister Oil,4
+564,Twister Oil,4
+896,Twister Oil,2
+715,Twister Oil,2
+636,Twister Oil,5
+694,Twister Oil,4
+655,Twister Oil,2
+758,Twister Oil,2
+450,Twister Oil,3
+92,Twister Oil,2
+708,Twister Oil,5
+727,Twister Oil,4
+586,Twister Oil,4
+434,Twister Oil,5
+447,Twister Oil,4
+833,Twister Oil,2
+788,Twister Oil,3
+805,Twister Oil,3
+386,Twister Oil,3
+606,Twister Oil,4
+882,Twister Oil,4
+654,Twister Oil,2
+490,Twister Oil,2
+532,Twister Oil,4
+854,Twister Oil,2
+756,Twister Oil,2
+738,Twister Oil,3
+796,Twister Oil,4
+793,Twister Oil,2
+865,Twister Oil,1
+936,Twister Oil,3
+893,Twister Oil,4
+825,Twister Oil,4
+769,Twister Oil,4
+402,Twister Oil,4
+839,Twister Oil,2
+396,Twister Oil,4
+840,Twister Oil,3
+82,Twister Oil,3
+864,Twister Oil,4
+916,Twister Oil,2
+939,Twister Oil,5
+792,Twister Oil,2
+660,Twister Oil,2
+514,Twister Oil,2
+381,Twister Oil,1
+394,Twister Oil,4
+159,Twister Oil,4
+569,Twister Oil,4
+887,Twister Oil,5
+642,Twister Oil,3
+653,Twister Oil,3
+751,Twister Oil,2
+709,Twister Oil,5
+621,Twister Oil,3
+897,Twister Oil,5
+120,Twister Oil,2
+759,Twister Oil,5
+859,Twister Oil,3
+891,Twister Oil,4
+849,Twister Oil,5
+270,Twister Oil,3
+910,Twister Oil,3
+748,Twister Oil,2
+757,Twister Oil,3
+804,Twister Oil,4
+161,Twister Oil,2
+714,Twister Oil,5
+807,Twister Oil,4
+901,Twister Oil,3
+602,Twister Oil,3
+927,Twister Oil,5
+779,Twister Oil,5
+671,Twister Oil,5
+935,Twister Oil,4
+93,Twister Oil,3
+879,Twister Oil,3
+534,Twister Oil,4
+643,Twister Oil,2
+690,Twister Oil,4
+178,Twister Oil,4
+919,Twister Oil,4
+938,Twister Oil,5
+749,Twister Oil,3
+507,Twister Oil,5
+395,Twister Oil,3
+555,Twister Oil,4
+192,Twister Oil,2
+582,Twister Oil,2
+308,Obama Oil,4
+287,Obama Oil,5
+148,Obama Oil,4
+280,Obama Oil,4
+66,Obama Oil,3
+5,Obama Oil,4
+109,Obama Oil,4
+181,Obama Oil,3
+95,Obama Oil,5
+268,Obama Oil,3
+189,Obama Oil,5
+145,Obama Oil,3
+158,Obama Oil,4
+67,Obama Oil,3
+232,Obama Oil,4
+150,Obama Oil,4
+289,Obama Oil,3
+117,Obama Oil,4
+49,Obama Oil,2
+223,Obama Oil,4
+56,Obama Oil,4
+17,Obama Oil,4
+340,Obama Oil,5
+177,Obama Oil,3
+194,Obama Oil,4
+250,Obama Oil,4
+213,Obama Oil,2
+350,Obama Oil,4
+348,Obama Oil,4
+131,Obama Oil,4
+106,Obama Oil,4
+234,Obama Oil,3
+43,Obama Oil,5
+20,Obama Oil,3
+246,Obama Oil,4
+94,Obama Oil,4
+279,Obama Oil,3
+38,Obama Oil,5
+128,Obama Oil,4
+96,Obama Oil,5
+203,Obama Oil,3
+157,Obama Oil,5
+311,Obama Oil,4
+125,Obama Oil,4
+286,Obama Oil,4
+83,Obama Oil,4
+301,Obama Oil,4
+345,Obama Oil,3
+18,Obama Oil,5
+322,Obama Oil,2
+64,Obama Oil,4
+45,Obama Oil,5
+247,Obama Oil,4
+204,Obama Oil,2
+271,Obama Oil,3
+41,Obama Oil,4
+274,Obama Oil,4
+222,Obama Oil,4
+15,Obama Oil,1
+23,Obama Oil,5
+141,Obama Oil,3
+359,Obama Oil,4
+374,Obama Oil,4
+380,Obama Oil,4
+10,Obama Oil,4
+320,Obama Oil,3
+160,Obama Oil,4
+396,Obama Oil,4
+339,Obama Oil,5
+199,Obama Oil,1
+422,Obama Oil,3
+81,Obama Oil,4
+42,Obama Oil,5
+357,Obama Oil,5
+26,Obama Oil,3
+327,Obama Oil,4
+200,Obama Oil,5
+44,Obama Oil,4
+256,Obama Oil,5
+174,Obama Oil,3
+97,Obama Oil,4
+243,Obama Oil,4
+101,Obama Oil,3
+490,Obama Oil,3
+242,Obama Oil,4
+312,Obama Oil,5
+325,Obama Oil,2
+456,Obama Oil,2
+347,Obama Oil,4
+360,Obama Oil,3
+450,Obama Oil,4
+84,Obama Oil,2
+198,Obama Oil,4
+494,Obama Oil,3
+525,Obama Oil,4
+2,Obama Oil,4
+62,Obama Oil,2
+343,Obama Oil,5
+298,Obama Oil,5
+459,Obama Oil,4
+407,Obama Oil,4
+471,Obama Oil,4
+535,Obama Oil,3
+500,Obama Oil,4
+512,Obama Oil,4
+275,Obama Oil,4
+252,Obama Oil,5
+230,Obama Oil,5
+249,Obama Oil,4
+93,Obama Oil,5
+514,Obama Oil,5
+193,Obama Oil,4
+484,Obama Oil,5
+54,Obama Oil,4
+75,Obama Oil,4
+338,Obama Oil,3
+13,Obama Oil,3
+472,Obama Oil,5
+541,Obama Oil,4
+209,Obama Oil,5
+144,Obama Oil,4
+417,Obama Oil,4
+454,Obama Oil,3
+313,Obama Oil,4
+202,Obama Oil,3
+579,Obama Oil,4
+447,Obama Oil,3
+137,Obama Oil,3
+508,Obama Oil,5
+1,Obama Oil,5
+569,Obama Oil,4
+416,Obama Oil,5
+291,Obama Oil,5
+401,Obama Oil,2
+479,Obama Oil,5
+567,Obama Oil,3
+561,Obama Oil,2
+390,Obama Oil,5
+162,Obama Oil,4
+332,Obama Oil,4
+363,Obama Oil,2
+455,Obama Oil,4
+394,Obama Oil,4
+120,Obama Oil,4
+297,Obama Oil,3
+540,Obama Oil,3
+231,Obama Oil,3
+560,Obama Oil,4
+379,Obama Oil,4
+59,Obama Oil,2
+99,Obama Oil,4
+254,Obama Oil,3
+533,Obama Oil,4
+441,Obama Oil,5
+292,Obama Oil,4
+262,Obama Oil,3
+483,Obama Oil,4
+16,Obama Oil,5
+592,Obama Oil,4
+526,Obama Oil,5
+307,Obama Oil,5
+344,Obama Oil,3
+649,Obama Oil,5
+299,Obama Oil,3
+324,Obama Oil,5
+545,Obama Oil,5
+517,Obama Oil,3
+82,Obama Oil,4
+658,Obama Oil,4
+460,Obama Oil,2
+622,Obama Oil,3
+429,Obama Oil,3
+73,Obama Oil,2
+326,Obama Oil,3
+330,Obama Oil,5
+532,Obama Oil,5
+470,Obama Oil,3
+620,Obama Oil,5
+263,Obama Oil,5
+184,Obama Oil,4
+577,Obama Oil,5
+248,Obama Oil,3
+699,Obama Oil,3
+534,Obama Oil,5
+505,Obama Oil,3
+425,Obama Oil,2
+691,Obama Oil,5
+406,Obama Oil,4
+432,Obama Oil,2
+657,Obama Oil,3
+305,Obama Oil,5
+487,Obama Oil,5
+77,Obama Oil,5
+235,Obama Oil,4
+151,Obama Oil,5
+642,Obama Oil,5
+708,Obama Oil,5
+244,Obama Oil,4
+735,Obama Oil,4
+523,Obama Oil,5
+749,Obama Oil,4
+705,Obama Oil,5
+636,Obama Oil,3
+276,Obama Oil,5
+635,Obama Oil,4
+478,Obama Oil,4
+381,Obama Oil,5
+92,Obama Oil,4
+467,Obama Oil,4
+716,Obama Oil,5
+763,Obama Oil,4
+465,Obama Oil,4
+613,Obama Oil,4
+588,Obama Oil,4
+676,Obama Oil,5
+643,Obama Oil,5
+562,Obama Oil,2
+178,Obama Oil,4
+677,Obama Oil,4
+253,Obama Oil,5
+697,Obama Oil,5
+614,Obama Oil,5
+798,Obama Oil,4
+777,Obama Oil,4
+637,Obama Oil,4
+371,Obama Oil,4
+290,Obama Oil,5
+770,Obama Oil,5
+618,Obama Oil,4
+684,Obama Oil,4
+89,Obama Oil,5
+706,Obama Oil,4
+6,Obama Oil,4
+63,Obama Oil,3
+674,Obama Oil,4
+648,Obama Oil,5
+65,Obama Oil,3
+497,Obama Oil,4
+731,Obama Oil,2
+378,Obama Oil,4
+655,Obama Oil,2
+395,Obama Oil,5
+835,Obama Oil,3
+768,Obama Oil,5
+402,Obama Oil,5
+435,Obama Oil,5
+134,Obama Oil,5
+817,Obama Oil,4
+761,Obama Oil,1
+634,Obama Oil,3
+807,Obama Oil,4
+554,Obama Oil,3
+790,Obama Oil,3
+503,Obama Oil,5
+486,Obama Oil,4
+632,Obama Oil,3
+804,Obama Oil,5
+650,Obama Oil,3
+831,Obama Oil,4
+654,Obama Oil,4
+493,Obama Oil,3
+365,Obama Oil,4
+710,Obama Oil,4
+612,Obama Oil,4
+610,Obama Oil,4
+468,Obama Oil,5
+296,Obama Oil,5
+723,Obama Oil,3
+168,Obama Oil,5
+130,Obama Oil,5
+488,Obama Oil,3
+621,Obama Oil,3
+868,Obama Oil,4
+678,Obama Oil,5
+663,Obama Oil,4
+424,Obama Oil,1
+597,Obama Oil,3
+669,Obama Oil,5
+885,Obama Oil,5
+756,Obama Oil,4
+788,Obama Oil,3
+79,Obama Oil,4
+727,Obama Oil,3
+879,Obama Oil,4
+897,Obama Oil,5
+796,Obama Oil,2
+887,Obama Oil,5
+746,Obama Oil,4
+602,Obama Oil,4
+771,Obama Oil,5
+580,Obama Oil,3
+794,Obama Oil,4
+759,Obama Oil,5
+411,Obama Oil,4
+872,Obama Oil,3
+821,Obama Oil,5
+624,Obama Oil,4
+388,Obama Oil,5
+744,Obama Oil,4
+25,Obama Oil,5
+438,Obama Oil,4
+883,Obama Oil,3
+921,Obama Oil,3
+216,Obama Oil,4
+138,Obama Oil,4
+295,Obama Oil,4
+789,Obama Oil,3
+886,Obama Oil,4
+303,Obama Oil,5
+336,Obama Oil,3
+893,Obama Oil,5
+550,Obama Oil,3
+792,Obama Oil,4
+823,Obama Oil,4
+773,Obama Oil,3
+896,Obama Oil,4
+864,Obama Oil,5
+715,Obama Oil,5
+913,Obama Oil,2
+458,Obama Oil,4
+742,Obama Oil,4
+830,Obama Oil,4
+733,Obama Oil,2
+518,Obama Oil,4
+293,Obama Oil,2
+463,Obama Oil,1
+630,Obama Oil,4
+929,Obama Oil,3
+714,Obama Oil,3
+679,Obama Oil,3
+924,Obama Oil,5
+210,Obama Oil,5
+660,Obama Oil,3
+698,Obama Oil,4
+764,Obama Oil,4
+805,Obama Oil,4
+665,Obama Oil,4
+58,Obama Oil,5
+251,Obama Oil,4
+549,Obama Oil,5
+751,Obama Oil,3
+785,Obama Oil,4
+609,Obama Oil,1
+903,Obama Oil,3
+703,Obama Oil,4
+72,Obama Oil,4
+826,Obama Oil,4
+314,Obama Oil,5
+916,Obama Oil,4
+933,Obama Oil,3
+387,Obama Oil,4
+108,Obama Oil,4
+389,Obama Oil,4
+553,Obama Oil,3
+182,Obama Oil,4
+919,Obama Oil,4
+403,Obama Oil,4
+661,Obama Oil,5
+815,Obama Oil,5
+854,Obama Oil,3
+331,Obama Oil,1
+890,Obama Oil,4
+124,Obama Oil,3
+882,Obama Oil,5
+779,Obama Oil,4
+542,Obama Oil,4
+852,Obama Oil,4
+605,Obama Oil,4
+399,Obama Oil,4
+294,Obama Oil,5
+870,Obama Oil,5
+277,Obama Oil,4
+690,Obama Oil,4
+537,Obama Oil,2
+838,Obama Oil,5
+412,Obama Oil,4
+653,Obama Oil,4
+847,Obama Oil,3
+201,Obama Oil,3
+606,Obama Oil,5
+881,Obama Oil,4
+769,Obama Oil,4
+664,Obama Oil,4
+918,Obama Oil,3
+576,Obama Oil,4
+680,Obama Oil,4
+536,Obama Oil,5
+889,Obama Oil,3
+57,Obama Oil,5
+393,Obama Oil,3
+521,Obama Oil,2
+745,Obama Oil,2
+726,Obama Oil,4
+867,Obama Oil,4
+70,Obama Oil,4
+419,Obama Oil,4
+922,Obama Oil,5
+894,Obama Oil,4
+599,Obama Oil,4
+910,Obama Oil,4
+829,Obama Oil,4
+738,Obama Oil,5
+901,Obama Oil,5
+795,Obama Oil,4
+843,Obama Oil,3
+102,Obama Oil,3
+757,Obama Oil,4
+930,Obama Oil,3
+899,Obama Oil,3
+730,Obama Oil,4
+121,Obama Oil,4
+548,Obama Oil,4
+936,Obama Oil,4
+457,Obama Oil,4
+793,Obama Oil,4
+767,Obama Oil,5
+806,Obama Oil,4
+934,Obama Oil,2
+822,Obama Oil,4
+689,Obama Oil,3
+935,Obama Oil,3
+839,Obama Oil,4
+495,Obama Oil,4
+582,Obama Oil,4
+892,Obama Oil,5
+701,Obama Oil,4
+721,Obama Oil,5
+880,Obama Oil,4
+927,Obama Oil,5
+434,Obama Oil,4
+865,Obama Oil,1
+552,Obama Oil,3
+923,Obama Oil,3
+692,Obama Oil,4
+917,Obama Oil,3
+21,Obama Oil,5
+902,Obama Oil,5
+748,Obama Oil,4
+938,Obama Oil,4
+932,Obama Oil,4
+941,Obama Oil,5
+907,Obama Oil,5
+265,Obama Oil,5
+709,Obama Oil,4
+445,Obama Oil,3
+398,Obama Oil,5
+682,Obama Oil,4
+895,Obama Oil,4
+747,Obama Oil,5
+786,Obama Oil,4
+800,Obama Oil,4
+593,Obama Oil,3
+95,Arrow Gas,2
+42,Arrow Gas,3
+56,Arrow Gas,3
+75,Arrow Gas,3
+120,Arrow Gas,2
+137,Arrow Gas,5
+99,Arrow Gas,4
+267,Arrow Gas,3
+213,Arrow Gas,4
+130,Arrow Gas,4
+49,Arrow Gas,1
+323,Arrow Gas,2
+290,Arrow Gas,2
+178,Arrow Gas,3
+119,Arrow Gas,4
+159,Arrow Gas,4
+16,Arrow Gas,4
+274,Arrow Gas,3
+70,Arrow Gas,2
+219,Arrow Gas,4
+346,Arrow Gas,4
+382,Arrow Gas,2
+236,Arrow Gas,4
+141,Arrow Gas,4
+378,Arrow Gas,2
+328,Arrow Gas,3
+13,Arrow Gas,3
+104,Arrow Gas,1
+58,Arrow Gas,2
+94,Arrow Gas,3
+332,Arrow Gas,4
+393,Arrow Gas,2
+238,Arrow Gas,3
+186,Arrow Gas,4
+363,Arrow Gas,3
+23,Arrow Gas,3
+299,Arrow Gas,3
+386,Arrow Gas,2
+286,Arrow Gas,1
+416,Arrow Gas,3
+268,Arrow Gas,4
+109,Arrow Gas,3
+432,Arrow Gas,3
+151,Arrow Gas,2
+343,Arrow Gas,1
+436,Arrow Gas,3
+403,Arrow Gas,3
+280,Arrow Gas,4
+399,Arrow Gas,2
+457,Arrow Gas,2
+442,Arrow Gas,3
+200,Arrow Gas,3
+270,Arrow Gas,4
+222,Arrow Gas,3
+158,Arrow Gas,3
+434,Arrow Gas,5
+194,Arrow Gas,3
+504,Arrow Gas,4
+466,Arrow Gas,4
+470,Arrow Gas,4
+249,Arrow Gas,3
+449,Arrow Gas,2
+67,Arrow Gas,3
+493,Arrow Gas,5
+291,Arrow Gas,3
+53,Arrow Gas,4
+217,Arrow Gas,2
+348,Arrow Gas,3
+513,Arrow Gas,4
+234,Arrow Gas,1
+117,Arrow Gas,3
+293,Arrow Gas,1
+201,Arrow Gas,2
+26,Arrow Gas,2
+533,Arrow Gas,3
+83,Arrow Gas,4
+359,Arrow Gas,3
+429,Arrow Gas,3
+554,Arrow Gas,3
+15,Arrow Gas,2
+271,Arrow Gas,2
+54,Arrow Gas,3
+63,Arrow Gas,2
+294,Arrow Gas,4
+320,Arrow Gas,4
+555,Arrow Gas,3
+37,Arrow Gas,3
+518,Arrow Gas,4
+57,Arrow Gas,4
+121,Arrow Gas,1
+327,Arrow Gas,2
+22,Arrow Gas,3
+84,Arrow Gas,3
+423,Arrow Gas,2
+391,Arrow Gas,3
+287,Arrow Gas,4
+64,Arrow Gas,3
+60,Arrow Gas,4
+357,Arrow Gas,5
+459,Arrow Gas,1
+643,Arrow Gas,3
+87,Arrow Gas,3
+435,Arrow Gas,4
+614,Arrow Gas,1
+592,Arrow Gas,4
+174,Arrow Gas,3
+625,Arrow Gas,2
+396,Arrow Gas,4
+654,Arrow Gas,4
+660,Arrow Gas,2
+580,Arrow Gas,1
+276,Arrow Gas,3
+627,Arrow Gas,3
+722,Arrow Gas,3
+682,Arrow Gas,3
+279,Arrow Gas,3
+637,Arrow Gas,1
+301,Arrow Gas,4
+650,Arrow Gas,1
+207,Arrow Gas,3
+102,Arrow Gas,3
+417,Arrow Gas,3
+82,Arrow Gas,3
+336,Arrow Gas,3
+297,Arrow Gas,3
+262,Arrow Gas,2
+314,Arrow Gas,4
+501,Arrow Gas,4
+761,Arrow Gas,5
+458,Arrow Gas,3
+804,Arrow Gas,3
+746,Arrow Gas,3
+534,Arrow Gas,4
+769,Arrow Gas,4
+339,Arrow Gas,4
+524,Arrow Gas,4
+770,Arrow Gas,4
+536,Arrow Gas,2
+792,Arrow Gas,3
+833,Arrow Gas,2
+313,Arrow Gas,4
+621,Arrow Gas,3
+256,Arrow Gas,4
+472,Arrow Gas,4
+456,Arrow Gas,4
+796,Arrow Gas,4
+190,Arrow Gas,3
+595,Arrow Gas,4
+718,Arrow Gas,4
+447,Arrow Gas,2
+255,Arrow Gas,3
+545,Arrow Gas,3
+648,Arrow Gas,4
+479,Arrow Gas,2
+852,Arrow Gas,4
+145,Arrow Gas,3
+715,Arrow Gas,4
+92,Arrow Gas,2
+758,Arrow Gas,3
+891,Arrow Gas,3
+728,Arrow Gas,2
+7,Arrow Gas,4
+43,Arrow Gas,4
+487,Arrow Gas,3
+690,Arrow Gas,4
+716,Arrow Gas,1
+593,Arrow Gas,3
+757,Arrow Gas,3
+880,Arrow Gas,3
+896,Arrow Gas,2
+733,Arrow Gas,1
+425,Arrow Gas,3
+805,Arrow Gas,2
+817,Arrow Gas,4
+344,Arrow Gas,3
+825,Arrow Gas,5
+590,Arrow Gas,1
+298,Arrow Gas,3
+901,Arrow Gas,4
+216,Arrow Gas,2
+933,Arrow Gas,2
+923,Arrow Gas,4
+101,Arrow Gas,4
+709,Arrow Gas,4
+727,Arrow Gas,2
+708,Arrow Gas,3
+308,Arrow Gas,3
+889,Arrow Gas,4
+295,Arrow Gas,4
+168,Arrow Gas,3
+577,Arrow Gas,3
+676,Arrow Gas,3
+788,Arrow Gas,3
+561,Arrow Gas,1
+705,Arrow Gas,3
+881,Arrow Gas,4
+666,Arrow Gas,4
+503,Arrow Gas,4
+624,Arrow Gas,3
+450,Arrow Gas,4
+445,Arrow Gas,2
+62,Arrow Gas,4
+807,Arrow Gas,4
+742,Arrow Gas,1
+181,Arrow Gas,2
+938,Arrow Gas,3
+548,Arrow Gas,4
+865,Arrow Gas,1
+671,Arrow Gas,5
+786,Arrow Gas,4
+349,Arrow Gas,3
+665,Arrow Gas,2
+634,Arrow Gas,4
+697,Arrow Gas,4
+477,Arrow Gas,4
+795,Arrow Gas,3
+717,Arrow Gas,3
+899,Arrow Gas,2
+347,Arrow Gas,4
+790,Arrow Gas,1
+653,Arrow Gas,2
+864,Arrow Gas,4
+560,Arrow Gas,2
+394,Arrow Gas,4
+699,Arrow Gas,3
+605,Arrow Gas,2
+882,Arrow Gas,2
+663,Arrow Gas,3
+374,Arrow Gas,5
+259,Arrow Gas,3
+644,Arrow Gas,4
+872,Arrow Gas,4
+749,Arrow Gas,3
+569,Arrow Gas,3
+862,Arrow Gas,4
+693,Arrow Gas,1
+935,Arrow Gas,4
+943,Arrow Gas,4
+897,Arrow Gas,4
+619,Arrow Gas,2
+606,Arrow Gas,4
+455,Arrow Gas,3
+939,Arrow Gas,4
+599,Arrow Gas,4
+886,Arrow Gas,1
+630,Arrow Gas,3
+551,Arrow Gas,2
+774,Arrow Gas,1
+916,Arrow Gas,2
+500,Arrow Gas,4
+303,Arrow Gas,2
+486,Arrow Gas,2
+223,Arrow Gas,5
+931,Arrow Gas,3
+38,Dangote Gas,5
+308,Dangote Gas,4
+44,Dangote Gas,4
+314,Dangote Gas,5
+28,Dangote Gas,3
+52,Dangote Gas,4
+6,Dangote Gas,2
+83,Dangote Gas,4
+244,Dangote Gas,4
+301,Dangote Gas,5
+216,Dangote Gas,3
+234,Dangote Gas,3
+56,Dangote Gas,4
+325,Dangote Gas,2
+280,Dangote Gas,5
+342,Dangote Gas,4
+263,Dangote Gas,5
+275,Dangote Gas,3
+253,Dangote Gas,4
+299,Dangote Gas,3
+59,Dangote Gas,2
+43,Dangote Gas,4
+20,Dangote Gas,3
+49,Dangote Gas,2
+198,Dangote Gas,3
+271,Dangote Gas,4
+64,Dangote Gas,4
+283,Dangote Gas,5
+297,Dangote Gas,3
+332,Dangote Gas,5
+42,Dangote Gas,5
+330,Dangote Gas,5
+85,Dangote Gas,4
+194,Dangote Gas,3
+186,Dangote Gas,3
+320,Dangote Gas,3
+23,Dangote Gas,4
+471,Dangote Gas,4
+397,Dangote Gas,4
+223,Dangote Gas,5
+389,Dangote Gas,3
+303,Dangote Gas,5
+334,Dangote Gas,3
+398,Dangote Gas,5
+16,Dangote Gas,5
+380,Dangote Gas,4
+450,Dangote Gas,3
+178,Dangote Gas,5
+246,Dangote Gas,3
+532,Dangote Gas,5
+230,Dangote Gas,5
+524,Dangote Gas,3
+13,Dangote Gas,5
+60,Dangote Gas,4
+393,Dangote Gas,4
+487,Dangote Gas,4
+399,Dangote Gas,3
+201,Dangote Gas,3
+543,Dangote Gas,3
+70,Dangote Gas,4
+5,Dangote Gas,4
+466,Dangote Gas,2
+84,Dangote Gas,4
+313,Dangote Gas,3
+295,Dangote Gas,4
+435,Dangote Gas,3
+433,Dangote Gas,3
+577,Dangote Gas,5
+222,Dangote Gas,4
+537,Dangote Gas,1
+437,Dangote Gas,4
+18,Dangote Gas,4
+381,Dangote Gas,4
+456,Dangote Gas,4
+374,Dangote Gas,4
+493,Dangote Gas,5
+566,Dangote Gas,2
+606,Dangote Gas,4
+286,Dangote Gas,5
+262,Dangote Gas,3
+233,Dangote Gas,5
+429,Dangote Gas,3
+497,Dangote Gas,4
+650,Dangote Gas,3
+250,Dangote Gas,5
+268,Dangote Gas,4
+373,Dangote Gas,5
+363,Dangote Gas,3
+436,Dangote Gas,4
+95,Dangote Gas,3
+109,Dangote Gas,4
+661,Dangote Gas,5
+102,Dangote Gas,4
+711,Dangote Gas,4
+698,Dangote Gas,3
+378,Dangote Gas,4
+417,Dangote Gas,5
+92,Dangote Gas,3
+741,Dangote Gas,2
+561,Dangote Gas,2
+344,Dangote Gas,4
+200,Dangote Gas,5
+551,Dangote Gas,5
+738,Dangote Gas,4
+468,Dangote Gas,4
+495,Dangote Gas,3
+716,Dangote Gas,4
+455,Dangote Gas,4
+758,Dangote Gas,3
+731,Dangote Gas,3
+610,Dangote Gas,2
+327,Dangote Gas,3
+727,Dangote Gas,4
+521,Dangote Gas,3
+804,Dangote Gas,2
+766,Dangote Gas,3
+830,Dangote Gas,3
+523,Dangote Gas,4
+130,Dangote Gas,5
+751,Dangote Gas,5
+479,Dangote Gas,4
+848,Dangote Gas,5
+805,Dangote Gas,3
+514,Dangote Gas,4
+705,Dangote Gas,4
+806,Dangote Gas,5
+823,Dangote Gas,4
+885,Dangote Gas,4
+506,Dangote Gas,5
+892,Dangote Gas,4
+843,Dangote Gas,2
+407,Dangote Gas,3
+621,Dangote Gas,4
+632,Dangote Gas,5
+710,Dangote Gas,3
+654,Dangote Gas,4
+896,Dangote Gas,4
+347,Dangote Gas,4
+660,Dangote Gas,2
+279,Dangote Gas,3
+899,Dangote Gas,5
+940,Dangote Gas,5
+542,Dangote Gas,3
+402,Dangote Gas,5
+764,Dangote Gas,5
+889,Dangote Gas,4
+290,Dangote Gas,4
+847,Dangote Gas,4
+798,Dangote Gas,5
+554,Dangote Gas,4
+682,Dangote Gas,5
+815,Dangote Gas,3
+1,Dangote Gas,4
+340,Dangote Gas,5
+592,Dangote Gas,4
+942,Dangote Gas,5
+276,Dangote Gas,5
+749,Dangote Gas,3
+648,Dangote Gas,3
+897,Dangote Gas,3
+622,Dangote Gas,4
+715,Dangote Gas,4
+291,Dangote Gas,4
+747,Dangote Gas,3
+776,Dangote Gas,4
+454,Dangote Gas,2
+625,Dangote Gas,3
+870,Dangote Gas,4
+756,Dangote Gas,3
+882,Dangote Gas,4
+864,Dangote Gas,5
+927,Dangote Gas,5
+664,Dangote Gas,4
+881,Dangote Gas,4
+125,Dangote Gas,5
+933,Dangote Gas,3
+846,Dangote Gas,3
+588,Dangote Gas,4
+734,Dangote Gas,4
+406,Dangote Gas,4
+821,Dangote Gas,5
+699,Dangote Gas,3
+620,Dangote Gas,4
+387,Dangote Gas,2
+505,Dangote Gas,4
+618,Dangote Gas,3
+902,Dangote Gas,4
+795,Dangote Gas,4
+536,Dangote Gas,5
+541,Dangote Gas,4
+472,Dangote Gas,3
+807,Dangote Gas,4
+886,Dangote Gas,5
+865,Dangote Gas,1
+771,Dangote Gas,4
+868,Dangote Gas,2
+901,Dangote Gas,4
+712,Dangote Gas,4
+545,Dangote Gas,4
+796,Dangote Gas,4
+913,Dangote Gas,4
+887,Dangote Gas,4
+642,Dangote Gas,5
+679,Dangote Gas,3
+850,Dangote Gas,5
+484,Dangote Gas,4
+826,Dangote Gas,5
+880,Dangote Gas,3
+844,Dangote Gas,4
+405,Dangote Gas,3
+757,Dangote Gas,4
+184,Dangote Gas,4
+851,Dangote Gas,4
+416,Dangote Gas,3
+919,Dangote Gas,4
+779,Dangote Gas,5
+822,Dangote Gas,4
+922,Dangote Gas,3
+786,Dangote Gas,5
+102,Bluevale gas,2
+318,Bluevale gas,2
+268,Bluevale gas,3
+83,Bluevale gas,4
+222,Bluevale gas,2
+200,Bluevale gas,4
+95,Bluevale gas,1
+399,Bluevale gas,3
+416,Bluevale gas,3
+174,Bluevale gas,1
+405,Bluevale gas,3
+94,Bluevale gas,3
+378,Bluevale gas,4
+313,Bluevale gas,3
+286,Bluevale gas,3
+311,Bluevale gas,2
+13,Bluevale gas,4
+64,Bluevale gas,2
+325,Bluevale gas,3
+387,Bluevale gas,1
+254,Bluevale gas,3
+429,Bluevale gas,3
+487,Bluevale gas,3
+620,Bluevale gas,5
+642,Bluevale gas,4
+276,Bluevale gas,3
+472,Bluevale gas,5
+471,Bluevale gas,3
+495,Bluevale gas,3
+500,Bluevale gas,2
+712,Bluevale gas,5
+896,Bluevale gas,2
+887,Bluevale gas,4
+826,Bluevale gas,3
+804,Bluevale gas,3
+798,Bluevale gas,4
+435,Bluevale gas,3
+880,Bluevale gas,2
+795,Bluevale gas,3
+771,Bluevale gas,4
+577,Bluevale gas,3
+796,Bluevale gas,2
+892,Bluevale gas,4
+805,Bluevale gas,2
+927,Bluevale gas,4
+881,Bluevale gas,3
+38,Bluevale gas,5
+234,Bluevale gas,2
+846,Bluevale gas,4
+901,Bluevale gas,3
+864,Bluevale gas,3
+314,Bluevale gas,5
+63,Nyerere gas,4
+184,Nyerere gas,3
+252,Nyerere gas,4
+303,Nyerere gas,3
+85,Nyerere gas,2
+297,Nyerere gas,3
+158,Nyerere gas,4
+286,Nyerere gas,4
+331,Nyerere gas,4
+296,Nyerere gas,5
+224,Nyerere gas,3
+113,Nyerere gas,3
+274,Nyerere gas,4
+11,Nyerere gas,5
+89,Nyerere gas,4
+181,Nyerere gas,1
+416,Nyerere gas,5
+330,Nyerere gas,4
+192,Nyerere gas,3
+2,Nyerere gas,4
+334,Nyerere gas,3
+390,Nyerere gas,2
+387,Nyerere gas,4
+483,Nyerere gas,3
+455,Nyerere gas,4
+378,Nyerere gas,4
+343,Nyerere gas,4
+271,Nyerere gas,4
+454,Nyerere gas,2
+524,Nyerere gas,3
+490,Nyerere gas,3
+486,Nyerere gas,3
+234,Nyerere gas,3
+365,Nyerere gas,4
+450,Nyerere gas,3
+561,Nyerere gas,3
+697,Nyerere gas,5
+572,Nyerere gas,1
+699,Nyerere gas,3
+59,Nyerere gas,4
+560,Nyerere gas,3
+406,Nyerere gas,3
+119,Nyerere gas,4
+622,Nyerere gas,4
+711,Nyerere gas,5
+548,Nyerere gas,3
+429,Nyerere gas,4
+526,Nyerere gas,2
+503,Nyerere gas,4
+537,Nyerere gas,2
+151,Nyerere gas,4
+883,Nyerere gas,4
+532,Nyerere gas,5
+496,Nyerere gas,5
+924,Nyerere gas,3
+735,Nyerere gas,3
+839,Nyerere gas,2
+43,Nyerere gas,1
+629,Nyerere gas,5
+733,Nyerere gas,1
+569,Nyerere gas,2
+52,Nyerere gas,5
+470,Nyerere gas,4
+678,Nyerere gas,3
+894,Nyerere gas,4
+837,Nyerere gas,2
+710,Nyerere gas,4
+906,Nyerere gas,3
+907,Nyerere gas,5
+535,Nyerere gas,5
+919,Nyerere gas,5
+160,SA gas,5
+83,SA gas,4
+269,SA gas,1
+248,SA gas,4
+239,SA gas,3
+198,SA gas,3
+72,SA gas,4
+297,SA gas,3
+130,SA gas,5
+194,SA gas,3
+230,SA gas,4
+178,SA gas,4
+28,SA gas,4
+115,SA gas,5
+188,SA gas,4
+5,SA gas,2
+222,SA gas,2
+193,SA gas,3
+315,SA gas,3
+286,SA gas,3
+303,SA gas,5
+312,SA gas,5
+21,SA gas,5
+151,SA gas,4
+276,SA gas,5
+308,SA gas,3
+328,SA gas,4
+163,SA gas,3
+85,SA gas,4
+232,SA gas,3
+42,SA gas,4
+292,SA gas,5
+94,SA gas,5
+352,SA gas,4
+311,SA gas,4
+10,SA gas,4
+80,SA gas,3
+316,SA gas,1
+254,SA gas,4
+213,SA gas,4
+91,SA gas,5
+313,SA gas,4
+216,SA gas,4
+327,SA gas,5
+234,SA gas,4
+416,SA gas,5
+402,SA gas,4
+374,SA gas,4
+280,SA gas,3
+361,SA gas,4
+169,SA gas,4
+60,SA gas,4
+189,SA gas,5
+398,SA gas,4
+435,SA gas,4
+103,SA gas,3
+18,SA gas,3
+325,SA gas,3
+38,SA gas,5
+255,SA gas,5
+447,SA gas,4
+326,SA gas,3
+367,SA gas,4
+13,SA gas,5
+322,SA gas,4
+430,SA gas,4
+371,SA gas,5
+152,SA gas,4
+201,SA gas,5
+92,SA gas,4
+256,SA gas,5
+279,SA gas,2
+497,SA gas,2
+339,SA gas,4
+175,SA gas,5
+454,SA gas,3
+474,SA gas,5
+56,SA gas,4
+480,SA gas,4
+452,SA gas,3
+524,SA gas,4
+453,SA gas,3
+268,SA gas,4
+484,SA gas,4
+389,SA gas,4
+458,SA gas,4
+135,SA gas,4
+504,SA gas,3
+399,SA gas,3
+288,SA gas,4
+271,SA gas,5
+406,SA gas,4
+1,SA gas,4
+16,SA gas,5
+59,SA gas,5
+533,SA gas,2
+331,SA gas,4
+421,SA gas,5
+457,SA gas,5
+536,SA gas,4
+593,SA gas,2
+332,SA gas,5
+233,SA gas,4
+472,SA gas,4
+506,SA gas,5
+437,SA gas,4
+405,SA gas,5
+7,SA gas,5
+604,SA gas,5
+378,SA gas,4
+551,SA gas,4
+366,SA gas,1
+345,SA gas,4
+90,SA gas,4
+633,SA gas,4
+667,SA gas,2
+293,SA gas,5
+623,SA gas,4
+541,SA gas,5
+561,SA gas,3
+548,SA gas,4
+368,SA gas,3
+210,SA gas,4
+109,SA gas,4
+665,SA gas,3
+417,SA gas,4
+686,SA gas,4
+650,SA gas,4
+638,SA gas,4
+456,SA gas,3
+69,SA gas,5
+653,SA gas,3
+546,SA gas,4
+655,SA gas,3
+346,SA gas,2
+664,SA gas,3
+632,SA gas,3
+148,SA gas,3
+699,SA gas,3
+776,SA gas,5
+442,SA gas,4
+195,SA gas,5
+538,SA gas,3
+756,SA gas,3
+500,SA gas,3
+592,SA gas,5
+425,SA gas,3
+773,SA gas,2
+642,SA gas,1
+537,SA gas,3
+567,SA gas,3
+377,SA gas,5
+391,SA gas,4
+696,SA gas,4
+495,SA gas,5
+23,SA gas,2
+666,SA gas,3
+363,SA gas,3
+200,SA gas,4
+727,SA gas,2
+144,SA gas,4
+455,SA gas,4
+788,SA gas,3
+215,SA gas,4
+291,SA gas,4
+514,SA gas,3
+741,SA gas,4
+682,SA gas,3
+545,SA gas,3
+690,SA gas,4
+508,SA gas,4
+786,SA gas,3
+343,SA gas,1
+840,SA gas,5
+774,SA gas,2
+618,SA gas,4
+778,SA gas,3
+250,SA gas,3
+848,SA gas,4
+272,SA gas,4
+244,SA gas,3
+821,SA gas,5
+503,SA gas,5
+606,SA gas,4
+847,SA gas,2
+493,SA gas,5
+253,SA gas,4
+671,SA gas,4
+488,SA gas,4
+758,SA gas,4
+802,SA gas,5
+864,SA gas,4
+568,SA gas,3
+648,SA gas,5
+747,SA gas,5
+913,SA gas,4
+95,SA gas,2
+102,SA gas,3
+710,SA gas,4
+693,SA gas,2
+290,SA gas,3
+804,SA gas,4
+429,SA gas,4
+712,SA gas,2
+709,SA gas,5
+763,SA gas,3
+532,SA gas,5
+64,SA gas,4
+527,SA gas,5
+766,SA gas,4
+659,SA gas,4
+385,SA gas,1
+629,SA gas,4
+901,SA gas,4
+932,SA gas,3
+498,SA gas,4
+270,SA gas,5
+748,SA gas,4
+379,SA gas,5
+586,SA gas,3
+601,SA gas,1
+807,SA gas,3
+617,SA gas,3
+543,SA gas,4
+897,SA gas,5
+263,SA gas,4
+715,SA gas,4
+579,SA gas,3
+795,SA gas,4
+890,SA gas,5
+814,SA gas,3
+577,SA gas,3
+566,SA gas,3
+833,SA gas,3
+274,SA gas,5
+849,SA gas,5
+380,SA gas,2
+886,SA gas,3
+835,SA gas,5
+264,SA gas,4
+896,SA gas,4
+846,SA gas,5
+96,SA gas,4
+823,SA gas,4
+407,SA gas,3
+916,SA gas,4
+942,SA gas,4
+372,SA gas,5
+145,SA gas,5
+934,SA gas,2
+479,SA gas,5
+620,SA gas,3
+805,SA gas,5
+643,SA gas,4
+608,SA gas,5
+422,SA gas,4
+716,SA gas,5
+588,SA gas,5
+118,SA gas,5
+880,SA gas,5
+436,SA gas,3
+903,SA gas,4
+943,SA gas,3
+738,SA gas,4
+881,SA gas,3
+749,SA gas,4
+868,SA gas,4
+878,SA gas,1
+851,SA gas,4
+933,SA gas,3
+843,SA gas,4
+806,SA gas,4
+889,SA gas,4
+899,SA gas,4
+562,SA gas,5
+375,SA gas,5
+262,SA gas,3
+796,SA gas,2
+450,SA gas,3
+883,SA gas,4
+50,Sahara Pride,3
+269,Sahara Pride,5
+99,Sahara Pride,3
+276,Sahara Pride,4
+79,Sahara Pride,5
+150,Sahara Pride,5
+63,Sahara Pride,3
+89,Sahara Pride,5
+323,Sahara Pride,4
+32,Sahara Pride,4
+58,Sahara Pride,5
+367,Sahara Pride,4
+268,Sahara Pride,5
+139,Sahara Pride,4
+345,Sahara Pride,4
+94,Sahara Pride,4
+347,Sahara Pride,4
+27,Sahara Pride,4
+113,Sahara Pride,5
+294,Sahara Pride,4
+344,Sahara Pride,4
+305,Sahara Pride,3
+214,Sahara Pride,2
+453,Sahara Pride,5
+416,Sahara Pride,4
+314,Sahara Pride,5
+359,Sahara Pride,3
+1,Sahara Pride,5
+193,Sahara Pride,3
+445,Sahara Pride,1
+176,Sahara Pride,5
+432,Sahara Pride,4
+6,Sahara Pride,3
+376,Sahara Pride,3
+130,Sahara Pride,4
+26,Sahara Pride,4
+232,Sahara Pride,4
+470,Sahara Pride,2
+69,Sahara Pride,5
+244,Sahara Pride,5
+387,Sahara Pride,3
+189,Sahara Pride,4
+503,Sahara Pride,5
+77,Sahara Pride,5
+582,Sahara Pride,4
+542,Sahara Pride,3
+496,Sahara Pride,4
+500,Sahara Pride,5
+435,Sahara Pride,5
+392,Sahara Pride,5
+439,Sahara Pride,4
+560,Sahara Pride,5
+174,Sahara Pride,5
+212,Sahara Pride,5
+620,Sahara Pride,4
+354,Sahara Pride,4
+145,Sahara Pride,4
+85,Sahara Pride,4
+490,Sahara Pride,2
+467,Sahara Pride,5
+433,Sahara Pride,4
+291,Sahara Pride,5
+654,Sahara Pride,1
+303,Sahara Pride,5
+468,Sahara Pride,5
+736,Sahara Pride,4
+782,Sahara Pride,3
+595,Sahara Pride,4
+717,Sahara Pride,5
+417,Sahara Pride,4
+222,Sahara Pride,4
+828,Sahara Pride,2
+567,Sahara Pride,4
+178,Sahara Pride,4
+889,Sahara Pride,4
+894,Sahara Pride,4
+727,Sahara Pride,4
+682,Sahara Pride,5
+327,Sahara Pride,4
+116,Sahara Pride,5
+104,Sahara Pride,3
+334,Sahara Pride,4
+669,Sahara Pride,4
+790,Sahara Pride,4
+473,Sahara Pride,5
+92,Sahara Pride,4
+221,Sahara Pride,5
+919,Sahara Pride,3
+557,Sahara Pride,5
+637,Sahara Pride,2
+893,Sahara Pride,3
+521,Sahara Pride,4
+287,Sahara Pride,4
+834,Sahara Pride,4
+730,Sahara Pride,4
+916,Sahara Pride,5
+697,Sahara Pride,5
+762,Sahara Pride,1
+578,Sahara Pride,2
+592,Sahara Pride,5
+655,Sahara Pride,3
+643,Sahara Pride,5
+854,Sahara Pride,3
+699,Sahara Pride,4
+624,Sahara Pride,4
+770,Sahara Pride,5
+880,Sahara Pride,5
+635,Sahara Pride,5
+819,Sahara Pride,4
+662,Sahara Pride,5
+912,Sahara Pride,2
+463,Sahara Pride,4
+917,Sahara Pride,4
+342,Sahara Pride,4
+902,Sahara Pride,1
+296,Sahara Pride,4
+936,Sahara Pride,4
+870,Sahara Pride,3
+73,Sahara Pride,3
+778,Sahara Pride,2
+928,Sahara Pride,5
+486,Sahara Pride,3
+243,Sahara Pride,4
+399,Sahara Pride,3
+301,Pride of Libya,4
+90,Pride of Libya,5
+13,Pride of Libya,4
+14,Pride of Libya,3
+275,Pride of Libya,4
+6,Pride of Libya,5
+270,Pride of Libya,5
+311,Pride of Libya,5
+42,Pride of Libya,4
+184,Pride of Libya,4
+234,Pride of Libya,4
+5,Pride of Libya,3
+161,Pride of Libya,4
+316,Pride of Libya,5
+21,Pride of Libya,5
+97,Pride of Libya,4
+28,Pride of Libya,5
+85,Pride of Libya,4
+207,Pride of Libya,4
+1,Pride of Libya,4
+315,Pride of Libya,4
+239,Pride of Libya,5
+312,Pride of Libya,4
+246,Pride of Libya,4
+201,Pride of Libya,4
+298,Pride of Libya,4
+148,Pride of Libya,3
+329,Pride of Libya,4
+138,Pride of Libya,5
+332,Pride of Libya,5
+325,Pride of Libya,4
+278,Pride of Libya,4
+152,Pride of Libya,2
+297,Pride of Libya,5
+56,Pride of Libya,4
+233,Pride of Libya,5
+290,Pride of Libya,4
+237,Pride of Libya,4
+308,Pride of Libya,3
+333,Pride of Libya,4
+328,Pride of Libya,4
+296,Pride of Libya,5
+188,Pride of Libya,5
+41,Pride of Libya,4
+262,Pride of Libya,4
+92,Pride of Libya,5
+60,Pride of Libya,4
+121,Pride of Libya,5
+269,Pride of Libya,4
+178,Pride of Libya,5
+249,Pride of Libya,5
+295,Pride of Libya,5
+102,Pride of Libya,4
+163,Pride of Libya,4
+43,Pride of Libya,5
+117,Pride of Libya,4
+29,Pride of Libya,4
+254,Pride of Libya,4
+259,Pride of Libya,4
+194,Pride of Libya,4
+379,Pride of Libya,5
+389,Pride of Libya,4
+232,Pride of Libya,4
+339,Pride of Libya,4
+23,Pride of Libya,5
+125,Pride of Libya,5
+382,Pride of Libya,3
+226,Pride of Libya,5
+313,Pride of Libya,4
+255,Pride of Libya,5
+59,Pride of Libya,5
+268,Pride of Libya,4
+392,Pride of Libya,5
+128,Pride of Libya,4
+287,Pride of Libya,4
+345,Pride of Libya,5
+76,Pride of Libya,5
+442,Pride of Libya,4
+81,Pride of Libya,5
+326,Pride of Libya,5
+376,Pride of Libya,5
+10,Pride of Libya,4
+417,Pride of Libya,5
+305,Pride of Libya,4
+371,Pride of Libya,5
+20,Pride of Libya,3
+453,Pride of Libya,4
+253,Pride of Libya,5
+347,Pride of Libya,5
+228,Pride of Libya,3
+124,Pride of Libya,4
+256,Pride of Libya,5
+276,Pride of Libya,5
+436,Pride of Libya,4
+151,Pride of Libya,4
+95,Pride of Libya,4
+84,Pride of Libya,4
+437,Pride of Libya,5
+366,Pride of Libya,5
+399,Pride of Libya,4
+135,Pride of Libya,5
+44,Pride of Libya,2
+395,Pride of Libya,5
+280,Pride of Libya,5
+370,Pride of Libya,4
+272,Pride of Libya,4
+7,Pride of Libya,4
+387,Pride of Libya,4
+230,Pride of Libya,5
+330,Pride of Libya,5
+271,Pride of Libya,5
+405,Pride of Libya,4
+123,Pride of Libya,4
+274,Pride of Libya,5
+377,Pride of Libya,5
+91,Pride of Libya,5
+130,Pride of Libya,5
+425,Pride of Libya,4
+430,Pride of Libya,5
+200,Pride of Libya,5
+416,Pride of Libya,5
+468,Pride of Libya,5
+426,Pride of Libya,4
+96,Pride of Libya,5
+186,Pride of Libya,5
+533,Pride of Libya,4
+198,Pride of Libya,4
+62,Pride of Libya,4
+354,Pride of Libya,3
+478,Pride of Libya,5
+498,Pride of Libya,4
+394,Pride of Libya,5
+18,Pride of Libya,5
+546,Pride of Libya,5
+493,Pride of Libya,4
+538,Pride of Libya,5
+497,Pride of Libya,4
+69,Pride of Libya,5
+553,Pride of Libya,5
+474,Pride of Libya,5
+554,Pride of Libya,5
+48,Pride of Libya,5
+118,Pride of Libya,5
+292,Pride of Libya,5
+115,Pride of Libya,3
+361,Pride of Libya,5
+49,Pride of Libya,4
+334,Pride of Libya,4
+409,Pride of Libya,5
+579,Pride of Libya,4
+94,Pride of Libya,4
+72,Pride of Libya,5
+346,Pride of Libya,2
+504,Pride of Libya,5
+617,Pride of Libya,2
+481,Pride of Libya,4
+363,Pride of Libya,3
+422,Pride of Libya,5
+109,Pride of Libya,4
+11,Pride of Libya,2
+551,Pride of Libya,5
+561,Pride of Libya,4
+303,Pride of Libya,5
+566,Pride of Libya,4
+374,Pride of Libya,5
+180,Pride of Libya,5
+655,Pride of Libya,4
+648,Pride of Libya,4
+458,Pride of Libya,3
+450,Pride of Libya,4
+605,Pride of Libya,5
+368,Pride of Libya,3
+495,Pride of Libya,5
+488,Pride of Libya,4
+608,Pride of Libya,5
+660,Pride of Libya,4
+16,Pride of Libya,5
+639,Pride of Libya,4
+327,Pride of Libya,4
+653,Pride of Libya,2
+686,Pride of Libya,5
+65,Pride of Libya,4
+601,Pride of Libya,3
+58,Pride of Libya,4
+500,Pride of Libya,4
+343,Pride of Libya,5
+658,Pride of Libya,4
+263,Pride of Libya,4
+496,Pride of Libya,4
+690,Pride of Libya,5
+535,Pride of Libya,2
+562,Pride of Libya,4
+342,Pride of Libya,3
+536,Pride of Libya,4
+650,Pride of Libya,4
+144,Pride of Libya,4
+734,Pride of Libya,4
+543,Pride of Libya,4
+216,Pride of Libya,5
+24,Pride of Libya,5
+64,Pride of Libya,4
+632,Pride of Libya,4
+694,Pride of Libya,5
+12,Pride of Libya,5
+691,Pride of Libya,4
+455,Pride of Libya,4
+575,Pride of Libya,4
+484,Pride of Libya,4
+680,Pride of Libya,4
+352,Pride of Libya,5
+766,Pride of Libya,3
+767,Pride of Libya,5
+494,Pride of Libya,4
+25,Pride of Libya,5
+780,Pride of Libya,1
+344,Pride of Libya,4
+620,Pride of Libya,4
+592,Pride of Libya,5
+380,Pride of Libya,4
+447,Pride of Libya,4
+508,Pride of Libya,3
+670,Pride of Libya,2
+454,Pride of Libya,1
+466,Pride of Libya,3
+236,Pride of Libya,5
+215,Pride of Libya,5
+372,Pride of Libya,5
+788,Pride of Libya,5
+250,Pride of Libya,5
+593,Pride of Libya,5
+530,Pride of Libya,4
+299,Pride of Libya,4
+741,Pride of Libya,5
+638,Pride of Libya,3
+114,Pride of Libya,4
+843,Pride of Libya,3
+367,Pride of Libya,5
+796,Pride of Libya,5
+693,Pride of Libya,4
+745,Pride of Libya,5
+629,Pride of Libya,5
+763,Pride of Libya,4
+618,Pride of Libya,5
+407,Pride of Libya,5
+840,Pride of Libya,5
+264,Pride of Libya,5
+267,Pride of Libya,5
+537,Pride of Libya,3
+833,Pride of Libya,3
+643,Pride of Libya,3
+778,Pride of Libya,4
+790,Pride of Libya,5
+890,Pride of Libya,4
+214,Pride of Libya,4
+248,Pride of Libya,5
+385,Pride of Libya,4
+659,Pride of Libya,4
+545,Pride of Libya,5
+682,Pride of Libya,4
+699,Pride of Libya,4
+864,Pride of Libya,5
+881,Pride of Libya,5
+774,Pride of Libya,4
+350,Pride of Libya,4
+896,Pride of Libya,5
+524,Pride of Libya,3
+886,Pride of Libya,4
+928,Pride of Libya,5
+908,Pride of Libya,5
+867,Pride of Libya,5
+911,Pride of Libya,2
+291,Pride of Libya,5
+378,Pride of Libya,5
+868,Pride of Libya,4
+933,Pride of Libya,5
+667,Pride of Libya,4
+913,Pride of Libya,4
+747,Pride of Libya,5
+505,Pride of Libya,4
+633,Pride of Libya,4
+798,Pride of Libya,1
+654,Pride of Libya,5
+758,Pride of Libya,5
+630,Pride of Libya,5
+588,Pride of Libya,1
+456,Pride of Libya,3
+823,Pride of Libya,5
+388,Pride of Libya,5
+751,Pride of Libya,5
+210,Pride of Libya,5
+288,Pride of Libya,5
+903,Pride of Libya,5
+749,Pride of Libya,5
+666,Pride of Libya,4
+665,Pride of Libya,4
+421,Pride of Libya,5
+622,Pride of Libya,5
+830,Pride of Libya,5
+757,Pride of Libya,4
+145,Pride of Libya,5
+323,Pride of Libya,4
+922,Pride of Libya,5
+499,Pride of Libya,4
+773,Pride of Libya,4
+610,Pride of Libya,5
+487,Pride of Libya,5
+932,Pride of Libya,5
+459,Pride of Libya,5
+907,Pride of Libya,5
+664,Pride of Libya,4
+645,Pride of Libya,4
+806,Pride of Libya,4
+503,Pride of Libya,5
+875,Pride of Libya,5
+776,Pride of Libya,4
+465,Pride of Libya,4
+739,Pride of Libya,3
+71,Pride of Libya,4
+222,Pride of Libya,4
+943,Pride of Libya,5
+897,Pride of Libya,5
+606,Pride of Libya,5
+804,Pride of Libya,5
+663,Pride of Libya,5
+99,Pride of Libya,5
+802,Pride of Libya,4
+704,Pride of Libya,5
+919,Pride of Libya,5
+847,Pride of Libya,4
+882,Pride of Libya,5
+711,Pride of Libya,5
+604,Pride of Libya,2
+177,Pride of Libya,5
+753,Pride of Libya,5
+854,Pride of Libya,4
+870,Pride of Libya,4
+805,Pride of Libya,5
+577,Pride of Libya,4
+786,Pride of Libya,5
+429,Pride of Libya,4
+77,Pride of Libya,4
+715,Pride of Libya,5
+709,Pride of Libya,4
+940,Pride of Libya,4
+514,Pride of Libya,5
+878,Pride of Libya,4
+910,Pride of Libya,4
+889,Pride of Libya,4
+925,Pride of Libya,4
+862,Pride of Libya,5
+719,Pride of Libya,5
+892,Pride of Libya,5
+218,Pride of Libya,5
+877,Pride of Libya,5
+548,Pride of Libya,5
+174,Pride of Libya,5
+532,Pride of Libya,5
+391,Pride of Libya,4
+175,Pride of Libya,5
+727,Pride of Libya,4
+850,Pride of Libya,1
+880,Pride of Libya,5
+814,Pride of Libya,4
+671,Pride of Libya,4
+700,Pride of Libya,3
+435,Pride of Libya,5
+738,Pride of Libya,4
+716,Pride of Libya,5
+213,Pride of Libya,5
+825,Pride of Libya,5
+771,Pride of Libya,1
+293,Pride of Libya,4
+815,Pride of Libya,4
+103,Pride of Libya,3
+406,Pride of Libya,4
+916,Pride of Libya,5
+452,Pride of Libya,5
+764,Pride of Libya,5
+835,Pride of Libya,5
+929,Pride of Libya,5
+684,Pride of Libya,4
+883,Pride of Libya,3
+899,Pride of Libya,4
+457,Pride of Libya,5
+480,Pride of Libya,4
+225,Pride of Libya,5
+821,Pride of Libya,5
+760,Pride of Libya,3
+887,Pride of Libya,3
+846,Pride of Libya,4
+225,Abuja gas,4
+7,Abuja gas,5
+91,Abuja gas,3
+308,Abuja gas,3
+307,Abuja gas,3
+119,Abuja gas,4
+178,Abuja gas,4
+151,Abuja gas,4
+58,Abuja gas,3
+201,Abuja gas,3
+235,Abuja gas,5
+290,Abuja gas,4
+198,Abuja gas,4
+6,Abuja gas,3
+1,Abuja gas,4
+311,Abuja gas,5
+144,Abuja gas,4
+325,Abuja gas,4
+18,Abuja gas,5
+213,Abuja gas,4
+234,Abuja gas,4
+321,Abuja gas,3
+94,Abuja gas,5
+330,Abuja gas,5
+44,Abuja gas,3
+118,Abuja gas,5
+233,Abuja gas,4
+194,Abuja gas,4
+70,Abuja gas,4
+350,Abuja gas,4
+412,Abuja gas,4
+116,Abuja gas,4
+472,Abuja gas,5
+271,Abuja gas,5
+128,Abuja gas,3
+90,Abuja gas,4
+429,Abuja gas,4
+272,Abuja gas,4
+122,Abuja gas,4
+175,Abuja gas,4
+505,Abuja gas,3
+95,Abuja gas,3
+354,Abuja gas,3
+450,Abuja gas,5
+524,Abuja gas,4
+85,Abuja gas,3
+363,Abuja gas,3
+528,Abuja gas,4
+527,Abuja gas,3
+458,Abuja gas,4
+342,Abuja gas,5
+301,Abuja gas,3
+551,Abuja gas,5
+13,Abuja gas,5
+506,Abuja gas,4
+533,Abuja gas,4
+608,Abuja gas,4
+537,Abuja gas,4
+561,Abuja gas,3
+318,Abuja gas,3
+313,Abuja gas,4
+200,Abuja gas,4
+276,Abuja gas,4
+387,Abuja gas,5
+343,Abuja gas,4
+224,Abuja gas,4
+405,Abuja gas,4
+593,Abuja gas,4
+694,Abuja gas,4
+407,Abuja gas,3
+92,Abuja gas,4
+592,Abuja gas,5
+715,Abuja gas,5
+298,Abuja gas,5
+474,Abuja gas,4
+796,Abuja gas,3
+383,Abuja gas,4
+535,Abuja gas,4
+778,Abuja gas,4
+807,Abuja gas,4
+499,Abuja gas,4
+545,Abuja gas,3
+835,Abuja gas,4
+648,Abuja gas,4
+748,Abuja gas,3
+711,Abuja gas,4
+653,Abuja gas,4
+757,Abuja gas,4
+370,Abuja gas,4
+846,Abuja gas,5
+492,Abuja gas,4
+862,Abuja gas,4
+693,Abuja gas,4
+882,Abuja gas,5
+457,Abuja gas,5
+843,Abuja gas,3
+751,Abuja gas,5
+454,Abuja gas,2
+379,Abuja gas,4
+629,Abuja gas,5
+293,Abuja gas,3
+455,Abuja gas,4
+655,Abuja gas,3
+630,Abuja gas,3
+676,Abuja gas,5
+815,Abuja gas,4
+940,Abuja gas,3
+734,Abuja gas,4
+788,Abuja gas,4
+279,Abuja gas,2
+479,Abuja gas,3
+823,Abuja gas,5
+705,Abuja gas,3
+618,Abuja gas,4
+334,Abuja gas,4
+738,Abuja gas,5
+890,Abuja gas,4
+897,Abuja gas,3
+942,Abuja gas,5
+406,Abuja gas,4
+919,Abuja gas,2
+59,Abuja gas,4
+899,Abuja gas,3
+435,Abuja gas,3
+378,Abuja gas,4
+650,Abuja gas,3
+222,Abuja gas,4
+360,Abuja gas,5
+97,Abuja gas,4
+911,Abuja gas,4
+881,Abuja gas,5
+639,Abuja gas,3
+830,Abuja gas,5
+292,Abuja gas,4
+56,Abuja gas,5
+488,Abuja gas,3
+868,Abuja gas,2
+766,Abuja gas,3
+932,Abuja gas,3
+851,Abuja gas,4
+244,Abuja gas,4
+48,Abuja gas,2
+916,Abuja gas,4
+374,Abuja gas,4
+716,Abuja gas,5
+627,Abuja gas,5
+934,Abuja gas,4
+776,Abuja gas,3
+704,Abuja gas,5
+804,Abuja gas,4
+870,Abuja gas,5
+889,Abuja gas,4
+774,Abuja gas,5
+933,Abuja gas,4
+753,Abuja gas,4
+943,Abuja gas,4
+666,Abuja gas,4
