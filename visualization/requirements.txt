@@ -1,0 +1,9 @@
+dash==2.8.1
+dash_daq==0.5.0
+dash_ag_grid==2.0.0a1
+pandas==1.4.1
+numpy
+textblob==0.17.1
+wbgapi==1.0.7
+python-dotenv==0.20.0
+gunicorn
